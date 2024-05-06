@@ -431,6 +431,34 @@ def direct_parse_judgement(unparsed_judegement: str, issue_dict: dict):
     return judgements
 
 
+def get_attribute_scores(file_name):
+
+    file_path = f"transcripts/feedback/{file_name}.json"
+    # Load the JSON data from the file
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+    # Initialize a dictionary to store the scores
+    attribute_scores = {}
+
+    # Iterate through each error entry in the data
+    for entry in data:
+        # Extract the error_id and assessment
+        error_id = entry["error_id"]
+        assessment = entry["assessment"]
+        # Extract the attribute number (e.g., '1' from '1a')
+        attribute_number = error_id[:-1]
+        # Convert assessment to integer (True=1, False=0)
+        assessment_score = int(assessment)
+        # If the attribute number is already in the dictionary, update it
+        if attribute_number in attribute_scores:
+            attribute_scores[attribute_number].append(assessment_score)
+        else:
+            # Otherwise, initialize it in the dictionary
+            attribute_scores[attribute_number] = [assessment_score]
+
+    return attribute_scores
+
+
 def store_judgement(judgements: list, file_name: str):
 
     file_path =  f"transcripts/feedback/{file_name}.json"
@@ -449,3 +477,59 @@ def store_judgement(judgements: list, file_name: str):
     # Write the updated data back to the file
     with open(file_path, 'w') as file:
         json.dump(existing_data, file, indent=4)
+
+
+def map_score(sub_scores):
+    hits = sum(sub_scores)
+    max = len(sub_scores)
+    if hits == 0:
+        return 0.33
+    if hits == 1: 
+        return 0.6
+    if hits == 2:
+        return 0.8
+    if hits == 3 and hits < max:
+        return 0.9
+    if hits == 4 and hits < max:
+        return 0.95
+    else:
+        return 1
+    
+def process_ensemble_score(attribute_scores):
+    ensemble_score = {}
+    for attribute, sub_scores in attribute_scores.items():
+        ensemble_score[attribute] = map_score(sub_scores)
+    return ensemble_score
+
+
+def map_id_to_info(id):
+    if id.startswith("1"):
+        info = product_knowledge[id]
+        attribute = "Product and Industry Knowledge"
+    elif id.startswith("2"):
+        info = relationship_management[id]
+        attribute = "Customer Relationship Management"
+    elif id.startswith("3"):
+        info = sale_skills[id]
+        attribute = "Negotiation and Sales Skills"
+    elif id.startswith("4"):
+        info = communication_skills[id]
+        attribute = "Communication Skills"
+    elif id.startswith("5"):
+        info = analytical_skills[id]
+        attribute = "Analytical Skills"
+    return info, attribute
+
+
+def map_id_to_attribute(id):
+    if id.startswith("1"):
+        return "Product and Industry Knowledge"
+    elif id.startswith("2"):
+        return "Customer Relationship Management"
+    elif id.startswith("3"):
+        return "Negotiation and Sales Skills"
+    elif id.startswith("4"):
+        return "Communication Skills"
+    elif id.startswith("5"):
+        return "Analytical Skills"
+    
