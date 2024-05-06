@@ -1,0 +1,49 @@
+Transcript for Conversation ID: z14sETLPY5-kKbmMxxzxh
+((2024-04-25 07.50.29.412323)) CUSTOMER: Hello there
+((2024-04-25 07.50.37.901239)) AGENT: Hi there, Rico. How are you today?
+((2024-04-25 07.50.40.716981)) AGENT: Hi, Rico, how are you today?
+((2024-04-25 07.50.42.125653)) CUSTOMER: I'm doing pretty good, thanks for asking. What brings you to this side of
+((2024-04-25 07.50.45.597976)) CUSTOMER: town today, Julian?
+((2024-04-25 07.50.46.867893)) CUSTOMER: Did you have other meetings around here or just ours?
+((2024-04-25 07.50.55.222963)) AGENT: No, I had a conference today, so.
+((2024-04-25 07.50.59.054911)) AGENT: But more than happy to make the time to chat with you today.
+((2024-04-25 07.51.00.588502)) CUSTOMER: That's great. I've heard some good things about FWD and your services
+((2024-04-25 07.51.04.348645)) CUSTOMER: , so can you tell me more about insu-rance options that would be good for someone in my line of work?
+((2024-04-25 07.51.09.197671)) CUSTOMER: I mean, as a stunt actor, I'm always pushing the limits, and I kinda want to make sure I'm covered properly.
+((2024-04-25 07.51.21.860264)) AGENT: I guess it's a stunt actor. You you could be exposing yourself to a lot of risk.
+((2024-04-25 07.51.23.272880)) CUSTOMER: Exactly, I need to make sure I'm
+((2024-04-25 07.51.25.276802)) CUSTOMER: considering all my options.
+((2024-04-25 07.51.27.728433)) CUSTOMER: What kind of egg-see-dentell or per-mahn-ant di-sar-bility be-nah-fits does the-
+((2024-04-25 07.51.30.500401)) AGENT: Well then, you def.
+((2024-04-25 07.51.32.261964)) CUSTOMER: Definitely want to look into. I've heard that FWD offers a variety of plans,
+((2024-04-25 07.51.37.116585)) CUSTOMER: including ones that might fit my high-risk job.
+((2024-04-25 07.51.39.613540)) CUSTOMER: Could you explain a bit about what these plans specifically cover when it comes to on-set accidents or injuries?
+((2024-04-25 07.51.45.629879)) CUSTOMER: How do they differ from typical health insurance coverage?
+((2024-04-25 07.51.54.936523)) AGENT: Yeah, sure, Rico. And apologies for cutting you off.
+((2024-04-25 07.51.58.634204)) AGENT: You're probably interested in our medical plans.
+((2024-04-25 07.52.00.067899)) CUSTOMER: Right, but I'm thinking more along the lines of accidental death or disability coverage
+((2024-04-25 07.52.04.664025)) CUSTOMER: .
+((2024-04-25 07.52.05.050729)) CUSTOMER: Could you give me an overview of what the accidental death benefit would specifically include and if there are any conditions or exclusions I should be aware of?
+((2024-04-25 07.52.25.685257)) AGENT: Yes, importantly, it has to be an accident and I think you need to recognise it in your line of work. It's actually not likely to be an accident.
+((2024-04-25 07.52.27.478575)) CUSTOMER: I see, but I suppose it's better to be safe than sorry. Are there any specific
+((2024-04-25 07.52.31.786341)) CUSTOMER: limitations or exceptions in the accidental coverage that I should particularly look out for in our field?
+((2024-04-25 07.52.36.966543)) CUSTOMER: Like, does it cover all types of injuries, or are there certain scenarios where it might not apply?
+((2024-04-25 07.52.50.273039)) AGENT: Videos if you're, for example, outside of Hong Kong.
+((2024-04-25 07.52.51.902143)) CUSTOMER: Outside of Hong Kong? That's important to know. Are there any other factors that could affect
+((2024-04-25 07.52.56.325711)) CUSTOMER: the coverage while I'm on a shoot abroad?
+((2024-04-25 07.52.59.164303)) CUSTOMER: For example, does the duration of the trip matter, or are there particular regions that are excluded?
+((2024-04-25 07.53.10.373537)) AGENT: Yes, you'd you'd only be covered for the 1st 60 days of any trip.
+((2024-04-25 07.53.13.760774)) AGENT: And not covered in North America.
+((2024-04-25 07.53.15.162800)) CUSTOMER: North America? That's a big exclusion. Are there any ways to mitigate that
+((2024-04-25 07.53.19.165467)) CUSTOMER: , like purchasing additional coverage or a rider for those specific regions?
+((2024-04-25 07.53.31.670932)) AGENT: There is one that covers continental USA, but that is an additional fee as you mentioned.
+((2024-04-25 07.53.33.345659)) CUSTOMER: I see. And what about the disability coverage? Are there any specific limitations or exclusions that apply
+((2024-04-25 07.53.39.134251)) CUSTOMER: particularly for stunt work?
+((2024-04-25 07.53.40.646151)) CUSTOMER: Are injuries like sprains or fractures considered under this, or is it more for severe cases?
+((2024-04-25 07.54.05.361850)) AGENT: For sprains and mild injuries, you can receive General practitioner treatment and you can. That's unlimited. But for anything that requires hospitalization, you would need to pay an excess of 1000 Hong Kong.
+((2024-04-25 07.54.07.529979)) AGENT: Dollars.
+((2024-04-25 07.54.08.920289)) CUSTOMER: I see. And what about the waiting period for disability coverage? Is it
+((2024-04-25 07.54.12.672665)) CUSTOMER: immediate, or do I have to wait a certain amount of time before it kicks in?
+((2024-04-25 07.54.16.441330)) CUSTOMER: What about pre-existing conditions; how are they handled?
+((2024-04-25 07.54.29.658800)) CUSTOMER: Oh, look at the time! I'm supposed to meet a buddy in a bit . It was great learning about FWD's
+((2024-04-25 07.54.30.266635)) AGENT: Full medicals required before we can issue the final policy and 30 day waiting period.
