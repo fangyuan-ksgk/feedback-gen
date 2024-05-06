@@ -497,6 +497,7 @@ def map_score(sub_scores):
     else:
         return 1
     
+
 def process_ensemble_score(attribute_scores):
     ensemble_score = {}
     for attribute, sub_scores in attribute_scores.items():
@@ -581,14 +582,14 @@ def generate_report(assistant, file_name):
 
     # Get Scores for Each Attribute & Ensemble the Scores
     attribute_scores = get_attribute_scores(file_name)
-    ensemble_score = process_ensemble_score(attribute_scores)
+    ensemble_score = cal_average_score(attribute_scores) # Use averagge score
+    # ensemble_score = process_ensemble_score(attribute_scores) # Use ensemble score
 
     # Convert the json file into a string, and ask LLM to compress the evaluation result into a proper report 
     file_path = f"transcripts/feedback/{file_name}.json"
     # Load the JSON data from the file
     with open(file_path, 'r') as file:
         data = json.load(file)
-
 
     # Prepare Evaluation String
     eval_str = ""
