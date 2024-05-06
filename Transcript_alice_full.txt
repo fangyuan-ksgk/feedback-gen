@@ -1,0 +1,272 @@
+Transcript for Conversation ID: U3A1aFOfUOaRwxi2AjWnF
+((2024-03-26 09.08.10.264324)) CUSTOMER: Hello there
+((2024-03-26 09.08.19.476472)) AGENT: Hello Michael. Thanks for coming down to meet me today. The weather is really hot today.
+((2024-03-26 09.08.22.655388)) CUSTOMER: Hey Ali, yeah, it's been quite warm lately.
+((2024-03-26 09.08.25.136540)) CUSTOMER: By the way, have you tried the new cold brew from this coffee shop?
+((2024-03-26 09.08.28.047657)) CUSTOMER: It's seriously refreshing on a day like this.
+((2024-03-26 09.08.30.431985)) CUSTOMER: 🙅
+((2024-03-26 09.08.30.692777)) CUSTOMER: [❤️=0]
+((2024-03-26 09.08.40.287548)) AGENT: Oh, really? Yeah, I've never tried. Would you like to get a drink? I can get a cold brew for you.
+((2024-03-26 09.08.43.623488)) CUSTOMER: That sounds like a great idea, thank you!
+((2024-03-26 09.08.45.665198)) CUSTOMER: Could really use something cool right about now.
+((2024-03-26 09.08.47.982787)) CUSTOMER: 🙏 [❤️=1]
+((2024-03-26 09.08.53.960883)) AGENT: OK, that's awesome.
+((2024-03-26 09.08.57.179587)) AGENT: OK, here's your code. Brew.
+((2024-03-26 09.09.01.663829)) AGENT: Yeah. So thanks again to meet me today.
+((2024-03-26 09.09.04.265828)) AGENT: How I hope your day was fine.
+((2024-03-26 09.09.06.738657)) CUSTOMER: I appreciate the cold brew, Ali!
+((2024-03-26 09.09.08.607495)) CUSTOMER: Actually, my day's been pretty good so far.
+((2024-03-26 09.09.10.760656)) CUSTOMER: Not too busy, which means I had a moment to enjoy a bit of digital art before heading out.
+((2024-03-26 09.09.15.230095)) CUSTOMER: Just trying to keep up with my hobbies despite the workload, you know.
+((2024-03-26 09.09.18.498178)) CUSTOMER: 🙆 [❤️=1]
+((2024-03-26 09.09.25.567267)) AGENT: Oh, you like to do digital art when you're not working?
+((2024-03-26 09.09.29.730303)) CUSTOMER: Yeah, it’s kind of a way to relax and express myself creatively.
+((2024-03-26 09.09.33.020957)) CUSTOMER: I've been into it since college; it’s nice to have a hobby that also complements my work, actually.
+((2024-03-26 09.09.37.547486)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.09.42.713343)) AGENT: Oh, what do you work as?
+((2024-03-26 09.09.45.301000)) CUSTOMER: I'm a multimedia artist.
+((2024-03-26 09.09.46.878069)) CUSTOMER: Basically, I do graphic design, video editing, and a bit of animation.
+((2024-03-26 09.09.50.459931)) CUSTOMER: It's great because it allows me to work with different media and keeps things interesting.
+((2024-03-26 09.09.54.560139)) CUSTOMER: 💬 [❤️=1]
+((2024-03-26 09.10.04.576999)) AGENT: Oh, I see. I see. You do like different projects, right? And so like a freelance kind of work.
+((2024-03-26 09.10.06.350050)) CUSTOMER: could say that.
+((2024-03-26 09.10.07.810774)) CUSTOMER: It definitely has its perks, like flexibility and getting to choose which projects to work on.
+((2024-03-26 09.10.12.291721)) CUSTOMER: Keeps me on my toes and gives me the freedom to play around with my ideas.
+((2024-03-26 09.10.15.877860)) CUSTOMER: 👍 [❤️=2]
+((2024-03-26 09.10.27.034221)) AGENT: How's how's the market right now? My niece is also.
+((2024-03-26 09.10.31.474720)) AGENT: Thinking of going freelance, She studied.
+((2024-03-26 09.10.34.836195)) AGENT: Graphic design in Singapore.
+((2024-03-26 09.10.37.441568)) CUSTOMER: it's pretty dynamic and can be competitive.
+((2024-03-26 09.10.39.779067)) CUSTOMER: Good for her though, having international experience is a huge plus in this industry.
+((2024-03-26 09.10.43.927141)) CUSTOMER: 🙆 [❤️=3]
+((2024-03-26 09.10.55.005682)) AGENT: That's really good, like.
+((2024-03-26 09.11.01.679788)) AGENT: So you also for worked for quite a while before you started freelancing.
+((2024-03-26 09.11.06.370704)) CUSTOMER: Yeah, having some experience under your belt before going freelance does help.
+((2024-03-26 09.11.10.131910)) CUSTOMER: It can give you the confidence and the portfolio you need to attract clients.
+((2024-03-26 09.11.13.951097)) CUSTOMER: Plus, it's a good way to network and learn the ropes from the industry.
+((2024-03-26 09.11.17.171264)) CUSTOMER: 💬 [❤️=3]
+((2024-03-26 09.11.47.459533)) AGENT: That's really good. But one thing I heard is that freelancing work compared to an office job or a full time job, there is less stability in your income. Like sometimes you earn a lot or other months when you don't have project then your income stream is not as stable. Is that true for you?
+((2024-03-26 09.11.49.368431)) CUSTOMER: it can be a bit unpredictable at times.
+((2024-03-26 09.11.51.672588)) CUSTOMER: That's why it's important to have some financial planning in place.
+((2024-03-26 09.11.55.882133)) CUSTOMER: Actually, that's one of the things I've been thinking about more recently – how to manage finances better when you have an irregular income stream.
+((2024-03-26 09.12.02.980597)) CUSTOMER: 🤔 [❤️=3]
+((2024-03-26 09.12.23.808136)) AGENT: Oh, that that's like a very wise decision because for a lot of people thinking about finances is very stressful. So I would say it's a brief step that you to to think about it seriously.
+((2024-03-26 09.12.27.396365)) CUSTOMER: 's definitely important, and honestly, sometimes it is a bit stressful without that steady paycheck.
+((2024-03-26 09.12.31.941257)) CUSTOMER: It makes looking into things like insu-rance more of a priority for me, just to have that safety net, in case things get too wobbly financially.
+((2024-03-26 09.12.38.851067)) CUSTOMER: 🙏 [❤️=3]
+((2024-03-26 09.12.39.861846)) AGENT: 2.
+((2024-03-26 09.12.42.028695)) CUSTOMER: I've got quite a few consherns, actually.-
+((2024-03-26 09.12.45.169236)) AGENT: Sounds like you've had some.
+((2024-03-26 09.12.49.971510)) AGENT: Sounds like you've had some experience.
+((2024-03-26 09.12.54.970186)) AGENT: Buying insurance? I Have you bought insurance before?
+((2024-03-26 09.12.57.515024)) CUSTOMER: ...
+((2024-03-26 09.12.58.636837)) CUSTOMER: looked into it a bit, but you know, it's one of those things where it feels a bit complicated and overwhelming to dive into on my own.
+((2024-03-26 09.13.04.833998)) CUSTOMER: 🙅 [❤️=2]
+((2024-03-26 09.13.13.479034)) AGENT: Don't worry, that's why I'm here to help you with that.
+((2024-03-26 09.13.15.539152)) CUSTOMER: ...
+((2024-03-26 09.13.16.819561)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.13.27.504608)) AGENT: Yeah, maybe.
+((2024-03-26 09.13.30.152260)) AGENT: We can talk about.
+((2024-03-26 09.13.37.523447)) AGENT: How I can be able to help you? But before that maybe for me to understand.
+((2024-03-26 09.13.40.539968)) AGENT: Your current situation better.
+((2024-03-26 09.13.45.436231)) CUSTOMER: it'd be helpful to-
+((2024-03-26 09.13.46.663965)) AGENT: Shall we start?
+((2024-03-26 09.13.50.583486)) CUSTOMER: have a solid understanding of how insu-rance aligns with my lifestyle and potential risks.
+((2024-03-26 09.13.55.355645)) CUSTOMER: It ’ s a bit-
+((2024-03-26 09.13.56.096138)) AGENT: Play.
+((2024-03-26 09.13.58.886202)) CUSTOMER: ...
+((2024-03-26 09.14.01.332690)) CUSTOMER: so basically, I'm looking to understand more about the different types of insu-rance policies that could fit with my work as a freelancer, and also with my lifestyle.
+((2024-03-26 09.14.11.127414)) CUSTOMER: Could you tell me more about the types of insu-rance plans that FWD offers, perhaps something that caters specifically to freelancers?
+((2024-03-26 09.14.18.544981)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.14.32.618360)) AGENT: Yeah, sure. OK. So do you want how how's your insurance knowledge do you want me to go through from the basic?
+((2024-03-26 09.14.34.607697)) CUSTOMER: could use a refresh, sure.
+((2024-03-26 09.14.36.241619)) CUSTOMER: Just to make sure I have the latest info, especially if there's anything tailored more towards freelance professionals.
+((2024-03-26 09.14.42.368794)) CUSTOMER: That would help me figure out what plan would be a good safety net, keeping in mind the nature of my income and expenses.
+((2024-03-26 09.14.48.869433)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.14.56.824500)) AGENT: So for.
+((2024-03-26 09.15.16.456074)) AGENT: For insurance, the basic idea is every month you will pay a certain amount called premiums and this premium like then if you sign a policy, usually for a cost of let's say 20 years or something.
+((2024-03-26 09.15.26.378398)) AGENT: Then maybe during like say for health policy, then you will be able to claim for some of your hospital bills.
+((2024-03-26 09.15.37.400898)) AGENT: If you go to hospital, get hospitalized or if you have some accidents or there are also like investment linked policies.
+((2024-03-26 09.15.45.259188)) AGENT: Like these policies will maybe give out money as fixed durations.
+((2024-03-26 09.15.46.916006)) AGENT: And.
+((2024-03-26 09.15.49.128466)) AGENT: So.
+((2024-03-26 09.15.55.555824)) AGENT: So for when you mentioned that you work freelance then.
+((2024-03-26 09.15.57.491877)) CUSTOMER: -
+((2024-03-26 09.16.03.555243)) AGENT: I then I would say investment linked policy.
+((2024-03-26 09.16.06.137735)) AGENT: Would be able to help.
+((2024-03-26 09.16.11.921167)) AGENT: You with more financial?
+((2024-03-26 09.16.22.159809)) AGENT: Stability and also to mitigate some financial risk. For example, let's say if you suddenly stop working or.
+((2024-03-26 09.16.30.368406)) AGENT: Touchwood for Something happens and then you don't have income anymore, then at least.
+((2024-03-26 09.16.35.747325)) AGENT: The insurance plan is able to help supplement.
+((2024-03-26 09.16.37.116566)) AGENT: Your finances.
+((2024-03-26 09.16.40.549738)) CUSTOMER: , yeah, that makes sense.
+((2024-03-26 09.16.42.005776)) CUSTOMER: So it seems like it's a combo of protection plus investment, right?
+((2024-03-26 09.16.45.223435)) CUSTOMER: Also, I've heard about pree-miams being quite high for these kinds of policies.
+((2024-03-26 09.16.49.094700)) CUSTOMER: I mean, with the fluctuating nature of my income, I need to figure out if it’s something I can consistently manage.
+((2024-03-26 09.16.54.758248)) CUSTOMER: 🤔 [❤️=0]
+((2024-03-26 09.17.07.489005)) AGENT: Yes, but so this actually this premiums they are customizable.
+((2024-03-26 09.17.32.122318)) AGENT: With FWD. So depending on your income and your need, you can pay for different premiums. I have a client similar to your age, he told he he's a friend and then he told me to create a policy for him to design a policy that's most suitable.
+((2024-03-26 09.17.40.871053)) AGENT: For him at the minimum premium, so I actually designed for him before.
+((2024-03-26 09.17.43.426257)) CUSTOMER: that's really good to know because having the flexibility to adjust pree-miams is essential for me.
+((2024-03-26 09.17.48.094582)) CUSTOMER: Also, I want details on how claim settlements work.
+((2024-03-26 09.17.50.768063)) CUSTOMER: I've heard stories about claims not being honored due to some technicality, and I want to avoid those kinds of situations.
+((2024-03-26 09.17.57.257527)) CUSTOMER: 🤔 [❤️=-1]
+((2024-03-26 09.18.08.559766)) AGENT: Yeah. So for claims, our claims process is.
+((2024-03-26 09.18.33.139061)) AGENT: Quite, quite manageable and if you really do sign with our policy, I will be there to go through with you how you can submit your claims online or you. And our claims process is also very standard because FWT is a reputable international.
+((2024-03-26 09.18.33.927753)) AGENT: Insurance agency.
+((2024-03-26 09.18.51.053751)) AGENT: So the way we do things is very professional, even though we are new to the Philippines market, but actually we have been around for a long time and very established in other parts of the world.
+((2024-03-26 09.18.54.975266)) CUSTOMER: it's reassuring to hear that FWD operates with professionalism.
+((2024-03-26 09.18.58.577862)) CUSTOMER: Transparency in the process is definitely something I appreciate.
+((2024-03-26 09.19.01.562421)) CUSTOMER: Could you share some situations or examples where claims were particularly well-handled by FWD?
+((2024-03-26 09.19.06.862492)) CUSTOMER: That would give me a clearer picture of what to expect.
+((2024-03-26 09.19.09.667524)) CUSTOMER: 🤔 [❤️=-2]
+((2024-03-26 09.19.20.043345)) AGENT: Yeah, so actually my client I have this client.
+((2024-03-26 09.19.39.776117)) AGENT: She was insured when she was 28 years old and then last year when she turned 31, she actually had a collapse after work, so doctors diagnosed that she has a heart attack.
+((2024-03-26 09.19.44.466784)) AGENT: But because she bought this, she's under this policy called FWD set for life.
+((2024-03-26 09.20.16.918933)) AGENT: So, so she doesn't have to pay for, so there's the waiver of premium, so she doesn't have to pay for any future premiums and so that she can just focus on the recovery and she was able to submit the documents from the doctors, from the hospital diagnosis through the app. So the whole process is very seamless and she because she she's my customer.
+((2024-03-26 09.20.18.639572)) AGENT: So I also guide her through the process.
+((2024-03-26 09.20.21.995793)) CUSTOMER: Considering what happened to your client, it's clear why having a solid insu-rance plan is vital.
+((2024-03-26 09.20.26.846281)) CUSTOMER: It's such a relief to hear she got the assistance needed, especially with-
+((2024-03-26 09.20.29.732172)) AGENT: 2.
+((2024-03-26 09.20.33.313372)) CUSTOMER: support she needed, especially with the waiver of future pree-miams so she could focus on getting better.
+((2024-03-26 09.20.38.853650)) CUSTOMER: That's actually a feature I hadn't considered much before, but it sounds like it can make a huge difference in a tough situation.
+((2024-03-26 09.20.44.925884)) CUSTOMER: 🤔 [❤️= -3]
+((2024-03-26 09.20.45.933523)) CUSTOMER: CUSTOMER: The customer got away!
+((2024-03-26 09.20.47.779039)) CUSTOMER: Your sales strategies fell short of professional standards, leading to ineffective client interactions.
+((2024-03-26 09.20.53.258507)) CUSTOMER: Reflect, adapt and aim for better salesmanship next time!
+((2024-03-26 09.21.04.519025)) AGENT: Oh no.((2024-03-26 09.08.10.264324)) CUSTOMER: Hello there
+((2024-03-26 09.08.19.476472)) AGENT: Hello Michael. Thanks for coming down to meet me today. The weather is really hot today.
+((2024-03-26 09.08.22.655388)) CUSTOMER: Hey Ali, yeah, it's been quite warm lately.
+((2024-03-26 09.08.25.136540)) CUSTOMER: By the way, have you tried the new cold brew from this coffee shop?
+((2024-03-26 09.08.28.047657)) CUSTOMER: It's seriously refreshing on a day like this.
+((2024-03-26 09.08.30.431985)) CUSTOMER: 🙅
+((2024-03-26 09.08.30.692777)) CUSTOMER: [❤️=0]
+((2024-03-26 09.08.40.287548)) AGENT: Oh, really? Yeah, I've never tried. Would you like to get a drink? I can get a cold brew for you.
+((2024-03-26 09.08.43.623488)) CUSTOMER: That sounds like a great idea, thank you!
+((2024-03-26 09.08.45.665198)) CUSTOMER: Could really use something cool right about now.
+((2024-03-26 09.08.47.982787)) CUSTOMER: 🙏 [❤️=1]
+((2024-03-26 09.08.53.960883)) AGENT: OK, that's awesome.
+((2024-03-26 09.08.57.179587)) AGENT: OK, here's your code. Brew.
+((2024-03-26 09.09.01.663829)) AGENT: Yeah. So thanks again to meet me today.
+((2024-03-26 09.09.04.265828)) AGENT: How I hope your day was fine.
+((2024-03-26 09.09.06.738657)) CUSTOMER: I appreciate the cold brew, Ali!
+((2024-03-26 09.09.08.607495)) CUSTOMER: Actually, my day's been pretty good so far.
+((2024-03-26 09.09.10.760656)) CUSTOMER: Not too busy, which means I had a moment to enjoy a bit of digital art before heading out.
+((2024-03-26 09.09.15.230095)) CUSTOMER: Just trying to keep up with my hobbies despite the workload, you know.
+((2024-03-26 09.09.18.498178)) CUSTOMER: 🙆 [❤️=1]
+((2024-03-26 09.09.25.567267)) AGENT: Oh, you like to do digital art when you're not working?
+((2024-03-26 09.09.29.730303)) CUSTOMER: Yeah, it’s kind of a way to relax and express myself creatively.
+((2024-03-26 09.09.33.020957)) CUSTOMER: I've been into it since college; it’s nice to have a hobby that also complements my work, actually.
+((2024-03-26 09.09.37.547486)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.09.42.713343)) AGENT: Oh, what do you work as?
+((2024-03-26 09.09.45.301000)) CUSTOMER: I'm a multimedia artist.
+((2024-03-26 09.09.46.878069)) CUSTOMER: Basically, I do graphic design, video editing, and a bit of animation.
+((2024-03-26 09.09.50.459931)) CUSTOMER: It's great because it allows me to work with different media and keeps things interesting.
+((2024-03-26 09.09.54.560139)) CUSTOMER: 💬 [❤️=1]
+((2024-03-26 09.10.04.576999)) AGENT: Oh, I see. I see. You do like different projects, right? And so like a freelance kind of work.
+((2024-03-26 09.10.06.350050)) CUSTOMER: could say that.
+((2024-03-26 09.10.07.810774)) CUSTOMER: It definitely has its perks, like flexibility and getting to choose which projects to work on.
+((2024-03-26 09.10.12.291721)) CUSTOMER: Keeps me on my toes and gives me the freedom to play around with my ideas.
+((2024-03-26 09.10.15.877860)) CUSTOMER: 👍 [❤️=2]
+((2024-03-26 09.10.27.034221)) AGENT: How's how's the market right now? My niece is also.
+((2024-03-26 09.10.31.474720)) AGENT: Thinking of going freelance, She studied.
+((2024-03-26 09.10.34.836195)) AGENT: Graphic design in Singapore.
+((2024-03-26 09.10.37.441568)) CUSTOMER: it's pretty dynamic and can be competitive.
+((2024-03-26 09.10.39.779067)) CUSTOMER: Good for her though, having international experience is a huge plus in this industry.
+((2024-03-26 09.10.43.927141)) CUSTOMER: 🙆 [❤️=3]
+((2024-03-26 09.10.55.005682)) AGENT: That's really good, like.
+((2024-03-26 09.11.01.679788)) AGENT: So you also for worked for quite a while before you started freelancing.
+((2024-03-26 09.11.06.370704)) CUSTOMER: Yeah, having some experience under your belt before going freelance does help.
+((2024-03-26 09.11.10.131910)) CUSTOMER: It can give you the confidence and the portfolio you need to attract clients.
+((2024-03-26 09.11.13.951097)) CUSTOMER: Plus, it's a good way to network and learn the ropes from the industry.
+((2024-03-26 09.11.17.171264)) CUSTOMER: 💬 [❤️=3]
+((2024-03-26 09.11.47.459533)) AGENT: That's really good. But one thing I heard is that freelancing work compared to an office job or a full time job, there is less stability in your income. Like sometimes you earn a lot or other months when you don't have project then your income stream is not as stable. Is that true for you?
+((2024-03-26 09.11.49.368431)) CUSTOMER: it can be a bit unpredictable at times.
+((2024-03-26 09.11.51.672588)) CUSTOMER: That's why it's important to have some financial planning in place.
+((2024-03-26 09.11.55.882133)) CUSTOMER: Actually, that's one of the things I've been thinking about more recently – how to manage finances better when you have an irregular income stream.
+((2024-03-26 09.12.02.980597)) CUSTOMER: 🤔 [❤️=3]
+((2024-03-26 09.12.23.808136)) AGENT: Oh, that that's like a very wise decision because for a lot of people thinking about finances is very stressful. So I would say it's a brief step that you to to think about it seriously.
+((2024-03-26 09.12.27.396365)) CUSTOMER: 's definitely important, and honestly, sometimes it is a bit stressful without that steady paycheck.
+((2024-03-26 09.12.31.941257)) CUSTOMER: It makes looking into things like insu-rance more of a priority for me, just to have that safety net, in case things get too wobbly financially.
+((2024-03-26 09.12.38.851067)) CUSTOMER: 🙏 [❤️=3]
+((2024-03-26 09.12.39.861846)) AGENT: 2.
+((2024-03-26 09.12.42.028695)) CUSTOMER: I've got quite a few consherns, actually.-
+((2024-03-26 09.12.45.169236)) AGENT: Sounds like you've had some.
+((2024-03-26 09.12.49.971510)) AGENT: Sounds like you've had some experience.
+((2024-03-26 09.12.54.970186)) AGENT: Buying insurance? I Have you bought insurance before?
+((2024-03-26 09.12.57.515024)) CUSTOMER: ...
+((2024-03-26 09.12.58.636837)) CUSTOMER: looked into it a bit, but you know, it's one of those things where it feels a bit complicated and overwhelming to dive into on my own.
+((2024-03-26 09.13.04.833998)) CUSTOMER: 🙅 [❤️=2]
+((2024-03-26 09.13.13.479034)) AGENT: Don't worry, that's why I'm here to help you with that.
+((2024-03-26 09.13.15.539152)) CUSTOMER: ...
+((2024-03-26 09.13.16.819561)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.13.27.504608)) AGENT: Yeah, maybe.
+((2024-03-26 09.13.30.152260)) AGENT: We can talk about.
+((2024-03-26 09.13.37.523447)) AGENT: How I can be able to help you? But before that maybe for me to understand.
+((2024-03-26 09.13.40.539968)) AGENT: Your current situation better.
+((2024-03-26 09.13.45.436231)) CUSTOMER: it'd be helpful to-
+((2024-03-26 09.13.46.663965)) AGENT: Shall we start?
+((2024-03-26 09.13.50.583486)) CUSTOMER: have a solid understanding of how insu-rance aligns with my lifestyle and potential risks.
+((2024-03-26 09.13.55.355645)) CUSTOMER: It ’ s a bit-
+((2024-03-26 09.13.56.096138)) AGENT: Play.
+((2024-03-26 09.13.58.886202)) CUSTOMER: ...
+((2024-03-26 09.14.01.332690)) CUSTOMER: so basically, I'm looking to understand more about the different types of insu-rance policies that could fit with my work as a freelancer, and also with my lifestyle.
+((2024-03-26 09.14.11.127414)) CUSTOMER: Could you tell me more about the types of insu-rance plans that FWD offers, perhaps something that caters specifically to freelancers?
+((2024-03-26 09.14.18.544981)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.14.32.618360)) AGENT: Yeah, sure. OK. So do you want how how's your insurance knowledge do you want me to go through from the basic?
+((2024-03-26 09.14.34.607697)) CUSTOMER: could use a refresh, sure.
+((2024-03-26 09.14.36.241619)) CUSTOMER: Just to make sure I have the latest info, especially if there's anything tailored more towards freelance professionals.
+((2024-03-26 09.14.42.368794)) CUSTOMER: That would help me figure out what plan would be a good safety net, keeping in mind the nature of my income and expenses.
+((2024-03-26 09.14.48.869433)) CUSTOMER: 🤔 [❤️=1]
+((2024-03-26 09.14.56.824500)) AGENT: So for.
+((2024-03-26 09.15.16.456074)) AGENT: For insurance, the basic idea is every month you will pay a certain amount called premiums and this premium like then if you sign a policy, usually for a cost of let's say 20 years or something.
+((2024-03-26 09.15.26.378398)) AGENT: Then maybe during like say for health policy, then you will be able to claim for some of your hospital bills.
+((2024-03-26 09.15.37.400898)) AGENT: If you go to hospital, get hospitalized or if you have some accidents or there are also like investment linked policies.
+((2024-03-26 09.15.45.259188)) AGENT: Like these policies will maybe give out money as fixed durations.
+((2024-03-26 09.15.46.916006)) AGENT: And.
+((2024-03-26 09.15.49.128466)) AGENT: So.
+((2024-03-26 09.15.55.555824)) AGENT: So for when you mentioned that you work freelance then.
+((2024-03-26 09.15.57.491877)) CUSTOMER: -
+((2024-03-26 09.16.03.555243)) AGENT: I then I would say investment linked policy.
+((2024-03-26 09.16.06.137735)) AGENT: Would be able to help.
+((2024-03-26 09.16.11.921167)) AGENT: You with more financial?
+((2024-03-26 09.16.22.159809)) AGENT: Stability and also to mitigate some financial risk. For example, let's say if you suddenly stop working or.
+((2024-03-26 09.16.30.368406)) AGENT: Touchwood for Something happens and then you don't have income anymore, then at least.
+((2024-03-26 09.16.35.747325)) AGENT: The insurance plan is able to help supplement.
+((2024-03-26 09.16.37.116566)) AGENT: Your finances.
+((2024-03-26 09.16.40.549738)) CUSTOMER: , yeah, that makes sense.
+((2024-03-26 09.16.42.005776)) CUSTOMER: So it seems like it's a combo of protection plus investment, right?
+((2024-03-26 09.16.45.223435)) CUSTOMER: Also, I've heard about pree-miams being quite high for these kinds of policies.
+((2024-03-26 09.16.49.094700)) CUSTOMER: I mean, with the fluctuating nature of my income, I need to figure out if it’s something I can consistently manage.
+((2024-03-26 09.16.54.758248)) CUSTOMER: 🤔 [❤️=0]
+((2024-03-26 09.17.07.489005)) AGENT: Yes, but so this actually this premiums they are customizable.
+((2024-03-26 09.17.32.122318)) AGENT: With FWD. So depending on your income and your need, you can pay for different premiums. I have a client similar to your age, he told he he's a friend and then he told me to create a policy for him to design a policy that's most suitable.
+((2024-03-26 09.17.40.871053)) AGENT: For him at the minimum premium, so I actually designed for him before.
+((2024-03-26 09.17.43.426257)) CUSTOMER: that's really good to know because having the flexibility to adjust pree-miams is essential for me.
+((2024-03-26 09.17.48.094582)) CUSTOMER: Also, I want details on how claim settlements work.
+((2024-03-26 09.17.50.768063)) CUSTOMER: I've heard stories about claims not being honored due to some technicality, and I want to avoid those kinds of situations.
+((2024-03-26 09.17.57.257527)) CUSTOMER: 🤔 [❤️=-1]
+((2024-03-26 09.18.08.559766)) AGENT: Yeah. So for claims, our claims process is.
+((2024-03-26 09.18.33.139061)) AGENT: Quite, quite manageable and if you really do sign with our policy, I will be there to go through with you how you can submit your claims online or you. And our claims process is also very standard because FWT is a reputable international.
+((2024-03-26 09.18.33.927753)) AGENT: Insurance agency.
+((2024-03-26 09.18.51.053751)) AGENT: So the way we do things is very professional, even though we are new to the Philippines market, but actually we have been around for a long time and very established in other parts of the world.
+((2024-03-26 09.18.54.975266)) CUSTOMER: it's reassuring to hear that FWD operates with professionalism.
+((2024-03-26 09.18.58.577862)) CUSTOMER: Transparency in the process is definitely something I appreciate.
+((2024-03-26 09.19.01.562421)) CUSTOMER: Could you share some situations or examples where claims were particularly well-handled by FWD?
+((2024-03-26 09.19.06.862492)) CUSTOMER: That would give me a clearer picture of what to expect.
+((2024-03-26 09.19.09.667524)) CUSTOMER: 🤔 [❤️=-2]
+((2024-03-26 09.19.20.043345)) AGENT: Yeah, so actually my client I have this client.
+((2024-03-26 09.19.39.776117)) AGENT: She was insured when she was 28 years old and then last year when she turned 31, she actually had a collapse after work, so doctors diagnosed that she has a heart attack.
+((2024-03-26 09.19.44.466784)) AGENT: But because she bought this, she's under this policy called FWD set for life.
+((2024-03-26 09.20.16.918933)) AGENT: So, so she doesn't have to pay for, so there's the waiver of premium, so she doesn't have to pay for any future premiums and so that she can just focus on the recovery and she was able to submit the documents from the doctors, from the hospital diagnosis through the app. So the whole process is very seamless and she because she she's my customer.
+((2024-03-26 09.20.18.639572)) AGENT: So I also guide her through the process.
+((2024-03-26 09.20.21.995793)) CUSTOMER: Considering what happened to your client, it's clear why having a solid insu-rance plan is vital.
+((2024-03-26 09.20.26.846281)) CUSTOMER: It's such a relief to hear she got the assistance needed, especially with-
+((2024-03-26 09.20.29.732172)) AGENT: 2.
+((2024-03-26 09.20.33.313372)) CUSTOMER: support she needed, especially with the waiver of future pree-miams so she could focus on getting better.
+((2024-03-26 09.20.38.853650)) CUSTOMER: That's actually a feature I hadn't considered much before, but it sounds like it can make a huge difference in a tough situation.
+((2024-03-26 09.20.44.925884)) CUSTOMER: 🤔 [❤️= -3]
+((2024-03-26 09.20.45.933523)) CUSTOMER: CUSTOMER: The customer got away!
+((2024-03-26 09.20.47.779039)) CUSTOMER: Your sales strategies fell short of professional standards, leading to ineffective client interactions.
+((2024-03-26 09.20.53.258507)) CUSTOMER: Reflect, adapt and aim for better salesmanship next time!
+((2024-03-26 09.21.04.519025)) AGENT: Oh no.

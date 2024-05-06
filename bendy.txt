@@ -1,0 +1,292 @@
+Transcript for Conversation ID: H45rugtGSfgG4OnFwCYQD
+((2024-04-05 07.36.32.892861)) CUSTOMER: Hello there
+((2024-04-05 07.36.38.668895)) AGENT: Hey, Hi. How are you?
+((2024-04-05 07.36.40.338809)) CUSTOMER: I'm doing well, thanks. And
+((2024-04-05 07.36.42.934658)) CUSTOMER: how about the traffic coming here?
+((2024-04-05 07.36.44.834551)) CUSTOMER: Was it manageable?
+((2024-04-05 07.36.46.160340)) CUSTOMER: 🤔
+((2024-04-05 07.36.46.473415)) CUSTOMER: [❤️=0]
+((2024-04-05 07.37.00.939594)) AGENT: Oh yeah, it was great. Before I actually continue, my name is Mandy, so I'm aware that you got my number through your colleague.
+((2024-04-05 07.37.02.185170)) CUSTOMER: Ah yes, I remember now. Nice to meet you Mandy
+((2024-04-05 07.37.05.838377)) CUSTOMER: , I've heard some good things about you from my colleague, so I'm curious to hear more about how you can help me.
+((2024-04-05 07.37.11.562544)) CUSTOMER: 🙆 [❤️=0]
+((2024-04-05 07.37.24.841507)) AGENT: Yeah, sure. I'd like to 1st find out more about what actually the things that you care about, you know in this insurance planning.
+((2024-04-05 07.37.26.169737)) CUSTOMER: Well, I'm mostly concerned about protecting my family and my assets
+((2024-04-05 07.37.29.803351)) CUSTOMER: .
+((2024-04-05 07.37.33.817119)) CUSTOMER: I want to make sure that whatever plan I get aligns with my lifestyle and financial goals.
+((2024-04-05 07.37.38.388877)) CUSTOMER: I've been thinking a lot about how to support my loved ones and set up a safety net that makes sense for me.
+((2024-04-05 07.37.43.393627)) CUSTOMER: 💬 [❤️=0]
+((2024-04-05 07.38.08.256259)) AGENT: Oh yeah, sure. That's definitely great. It's great that you're actually thinking this way because that's what actually insurance plans can do for you. So I would like to find out more about what kind of thing you're more interested in. What kind of protection do you have?
+((2024-04-05 07.38.09.739445)) CUSTOMER: Well, I currently have a life insurance policy, but I haven't
+((2024-04-05 07.38.12.746984)) CUSTOMER: really reviewed it in a while.
+((2024-04-05 07.38.14.492235)) CUSTOMER: So I'm wondering if there are better options out there that could give me more for what I'm paying.
+((2024-04-05 07.38.18.959882)) CUSTOMER: Like, I'm kinda nervous about whether I'm covered enough for any unexpected events, yah?
+((2024-04-05 07.38.23.141875)) CUSTOMER: Health is a big concern, especially with how busy and hectic work can get.
+((2024-04-05 07.38.27.077453)) CUSTOMER: 😢 [❤️=0]
+((2024-04-05 07.38.49.521154)) AGENT: Oh yeah, sure. Actually the main point of insurance is to actually cover for the unexpected, right. So in this case, if you have just a life insurance, that's really more for your family. But have you ever think about insurance which is more for like for example, your hospitalization or for critical illnesses?
+((2024-04-05 07.38.51.005832)) CUSTOMER: Hmm, no I haven't. I'll be honest,
+((2024-04-05 07.38.53.589172)) CUSTOMER: I'm not quite sure how those types of insurances work or if they're something I can afford on top of everything else.
+((2024-04-05 07.38.58.730328)) CUSTOMER: Can you tell me more about how they might benefit me specifically?
+((2024-04-05 07.39.01.998574)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.39.30.484097)) AGENT: Oh yeah, sure. So in case anything that happens to you, you know, touch wood, so this will actually cover you for main illnesses, for your critical illness and then for the hospitalization plan, it will basically cover anything that it will basically cover most of your hospital abuse. If let's say, you were to be hospitalized, that would be mainly on the impatient side of things.
+((2024-04-05 07.39.32.200278)) CUSTOMER: Wow, that sounds really interesting. I didn't realize there were different
+((2024-04-05 07.39.35.566351)) CUSTOMER: types of coverages that could provide more extensive support.
+((2024-04-05 07.39.38.704981)) CUSTOMER: How do those plans work together with what I already have, like my existing life insurance?
+((2024-04-05 07.39.43.510807)) CUSTOMER: And, you know, what would the cost look like in comparison to the benefits?
+((2024-04-05 07.39.47.200360)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.40.07.438178)) AGENT: I think they are very different cases of things that we want to talk about, right. So maybe let's just focus on the life insurance 1st instead of other plans. I think we can add in the other plans after we are done with looking at your life insurance. So can you tell me more about your life insurance?
+((2024-04-05 07.40.09.001753)) CUSTOMER: Sure, I have a term life insurance policy with a coverage amount of
+((2024-04-05 07.40.12.725925)) CUSTOMER: ...
+((2024-04-05 07.40.13.636926)) CUSTOMER: around 1 million pesos.
+((2024-04-05 07.40.15.445290)) CUSTOMER: It's a fairly basic plan without any add-ons or extra features.
+((2024-04-05 07.40.19.089337)) CUSTOMER: I took it out a few years ago, and the premiums seem okay, but I'm not sure if I'm really getting the best deal or if the coverage is enough for my needs today.
+((2024-04-05 07.40.27.074919)) CUSTOMER: 💬 [❤️=0]
+((2024-04-05 07.40.46.653847)) AGENT: Yeah, uh, I think as a general UH guide, right, UH, your life insurance should be able to do some income replacement for your family, UH, in case you are no longer around. So I would imagine that you will actually have to have more. May I know how many family members you have.
+((2024-04-05 07.40.48.397764)) CUSTOMER: I have a wife and two
+((2024-04-05 07.40.51.293414)) CUSTOMER: children, all of whom I want to ensure are well taken care of.
+((2024-04-05 07.40.54.344397)) CUSTOMER: Plus, I'm considering the future education costs for my kids, which I hear can be quite substantial.
+((2024-04-05 07.40.59.325243)) CUSTOMER: 🙏 [❤️=0]
+((2024-04-05 07.41.18.218951)) AGENT: Yeah. So I think as a general guy, I think it depends on what you want to include in your plans. So one of the main things that you could be possibly thinking of is 1 education and two basically providing for your wife and two other kids. Am I right to say that?
+((2024-04-05 07.41.19.761986)) CUSTOMER: Yes, absolutely. Education is a huge expense, and I don't
+((2024-04-05 07.41.22.816505)) CUSTOMER: want to leave them struggling with that burden.
+((2024-04-05 07.41.25.127701)) CUSTOMER: It's important for me that they have the resources they need to pursue their dreams, without financial worries holding them back.
+((2024-04-05 07.41.31.487242)) CUSTOMER: 🙏 [❤️=0]
+((2024-04-05 07.41.45.024523)) AGENT: Yeah, sure. So I would imagine that $1,000,000 pesos will not get them anywhere if you are going to look at whatever that we have at the moment.
+((2024-04-05 07.42.02.145632)) AGENT: One, educate, one education degree that you are going to pursue, say in the local Philippines, it's probably going to be around 300 to 400,000, but that's without taking into account of inflation and once you have inflation that's going to be way more.
+((2024-04-05 07.42.03.548436)) CUSTOMER: Wow, that's a significant difference. I had no idea
+((2024-04-05 07.42.06.929060)) CUSTOMER: the costs would run that high, even for local colleges.
+((2024-04-05 07.42.10.110219)) CUSTOMER: It's kind of overwhelming, to be honest.
+((2024-04-05 07.42.12.132414)) CUSTOMER: Just to add, it's not just about the tuition, right?
+((2024-04-05 07.42.14.710979)) CUSTOMER: There are other expenses to consider, such as books, housing, and daily living costs.
+((2024-04-05 07.42.19.189837)) CUSTOMER: So I'm guessing the policy I have might be insufficient for all that.
+((2024-04-05 07.42.22.538242)) CUSTOMER: What kind of policy would you recommend that could cover those long-term expenses and still fit into my current financial situation?
+((2024-04-05 07.42.28.771876)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.42.52.442032)) AGENT: Yeah, I think what's more important is how much you're actually having in terms of your income. And then we can work out a amount because I don't think it makes sense for you to pay or to overpay basically, right. So because part of the reason is because the kid can actually kind of earn some money on their self if let's say, you really do not have enough money and you're not there to support them.
+((2024-04-05 07.42.54.114288)) CUSTOMER: That's true, but I still want to make sure they have a
+((2024-04-05 07.42.56.673567)) CUSTOMER: solid foundation to build upon.
+((2024-04-05 07.42.58.596034)) CUSTOMER: It's not just about the money; it's about providing the best opportunities for them.
+((2024-04-05 07.43.02.942768)) CUSTOMER: Is there a way to estimate future costs and get an insurance plan that takes into account inflation and other factors?
+((2024-04-05 07.43.09.064936)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.43.40.174281)) AGENT: Yeah, sure. Uh, maybe I would like to introduce to you, UH set for life. So basically there is this, UH Life insurance that basically covers anything that UH, UH, UH basically covers you for anything that happens to you. But there's actually also a investment portion of things into it. So in that way, you can actually use the investment portion of money to actually get the money out and then pass it to your children for whatever then they need to for their education.
+((2024-04-05 07.43.42.066950)) CUSTOMER: That sounds intriguing. Could you explain more about how that works
+((2024-04-05 07.43.47.845528)) CUSTOMER: ?
+((2024-04-05 07.44.06.326625)) AGENT: Yeah. So let me first start with the life insurance portion, right. So this is actually a 25 year plan at least from what I see from whatever that you are talking about, it seems like 25 years is a very reasonable time given that your children will be grown up by then.
+((2024-04-05 07.44.07.577304)) AGENT: Is that OK for you?
+((2024-04-05 07.44.08.530998)) CUSTOMER: Yes, that sounds
+((2024-04-05 07.44.11.054786)) CUSTOMER: like a plan that could potentially align with my long-term goals.
+((2024-04-05 07.44.14.240576)) CUSTOMER: However, I would need to look closely at the numbers.
+((2024-04-05 07.44.16.969306)) CUSTOMER: What would be the overall investment portion, and how would it compare to the benefits that it would potentially accrue over time?
+((2024-04-05 07.44.23.521428)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.44.52.920149)) AGENT: Yeah, I think it very much depends on your, it very much depends on how much you are earning as well or whether your cash flow actually allows it. And the second thing is actually more about how much you want to leave for your children, right. So we will first talk about how much that you are willing to put in first. I think that will make a very big part of what you can afford. So I would make if it's convenient, can you let me know how much you are earning per month?
+((2024-04-05 07.44.54.928966)) CUSTOMER: My monthly salary is around 60,000
+((2024-04-05 07.44.57.504214)) CUSTOMER: pesos, and I'm cautious about overextending my budget.
+((2024-04-05 07.45.00.603253)) CUSTOMER: Is there a certain percentage of my income you'd recommend allocating to insurance to ensure I'm not putting myself at a disadvantage in other areas of my life?
+((2024-04-05 07.45.08.591934)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.45.26.022876)) AGENT: Yeah. I think in general it will be very prudent for you to put perhaps about 10 to 15% of your income into insurance. And so I would say that this life insurance would be something like.
+((2024-04-05 07.45.37.862298)) AGENT: 3 to 5% of whatever that you are doing. So if it's three to 5%, let's think about that in terms of 60,000 that will probably give it about a 2 to 3000 per month. Is that OK for you?
+((2024-04-05 07.45.39.269504)) CUSTOMER: That sounds reasonable, but I'd like to explore other options as well
+((2024-04-05 07.45.42.545970)) CUSTOMER: , maybe ones that include critical illness or hospitalization benefits.
+((2024-04-05 07.45.46.377081)) CUSTOMER: How would those fit into the budget, and what kind of coverage could I expect from them?
+((2024-04-05 07.45.50.297937)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.46.13.150995)) AGENT: Yeah. We do have this flexible portion that covers both clinical years and hospitalization as well that will probably net you another 1000 to 2000 depending on what are the additional coverages that you want the coverage. Just wise, are you OK with that first?
+((2024-04-05 07.46.14.623298)) CUSTOMER: Yes, that sounds like a good starting point. I'd like to
+((2024-04-05 07.46.17.548438)) CUSTOMER: make sure we also consider the policy's flexibility.
+((2024-04-05 07.46.20.542833)) CUSTOMER: Life can be unpredictable, and I want to have options should my circumstances change.
+((2024-04-05 07.46.25.193040)) CUSTOMER: Could you explain how that might work with the coverages you've mentioned?
+((2024-04-05 07.46.28.750856)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.46.59.621599)) AGENT: Attractive features of this is once you actually get hit with something of a personal disability.
+((2024-04-05 07.47.03.092666)) AGENT: Your premium stops by. Your cover still continues.
+((2024-04-05 07.47.04.447723)) CUSTOMER: That's a relief to know. I'd also like to understand
+((2024-04-05 07.47.09.011245)) CUSTOMER: how these benefits apply to my immediate family.
+((2024-04-05 07.47.11.581728)) CUSTOMER: Could you walk me through the kind of support they would receive should something unexpected happen to me?
+((2024-04-05 07.47.16.530035)) CUSTOMER: And, are there specific provisions that cater to my children's education directly?
+((2024-04-05 07.47.20.687267)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.47.56.680943)) AGENT: Unfortunately, no. So if let's say anything happens to you, I think the only support that we can provide you is really to help you through the claims process, right, to make your claims process as easy as possible. So that's that, that's my promise to you as an agent, right. But of course if let's say you are talking about you know what are the additional things the insurance for can do for your family is mostly on the financial side. But you got to understand that the financial side of support is actually the one that takes away a very big pressure away.
+((2024-04-05 07.47.58.630314)) CUSTOMER: I see. While I appreciate the financial support aspect, I'd also
+((2024-04-05 07.48.05.444731)) CUSTOMER: like to ensure that the process is transparent and that there won't be any hidden clauses that could complicate things for my family during an already difficult time.
+((2024-04-05 07.48.13.578171)) CUSTOMER: Can you tell me more about how the claims process works and what sort of documentation would be required?
+((2024-04-05 07.48.18.586287)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.48.43.946192)) AGENT: OK, so it really depends on what you are looking for, what what, what, what actually happened to you, right. So documentation wise, usually they just requires for example, your hospitalization record a doctor's memo and if you submit it online, generally we will try to get back to you between two weeks. I think 2 weeks to two weeks is probably the longest that you can go.
+((2024-04-05 07.48.45.755064)) CUSTOMER: That's reassuring to know. I'd also like to discuss
+((2024-04-05 07.48.48.805351)) CUSTOMER: how the policy can potentially be adjusted over time.
+((2024-04-05 07.48.51.892037)) CUSTOMER: Say, if my financial situation changes or if there are significant life events, like having another child, can the coverage be expanded or modified to fit those changes?
+((2024-04-05 07.49.01.476049)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.49.32.944616)) AGENT: So, so the moment that you get this, if let's say you know you want more coverage, that's definitely not a problem because we can definitely do additional adjustment, adjustment to increase the the, the premium out, the premium so that it can actually match up to whatever that your family needs. Of course you have to pay a little bit more, but what is the interesting thing is that we will try to tag it to the age that you actually got it instead of starting it from a new plan.
+((2024-04-05 07.49.34.617929)) CUSTOMER: That's good to know. I'd also like to clarify
+((2024-04-05 07.49.38.097040)) CUSTOMER: if there are any additional fees that I should be aware of when making changes to the policy or if there's a specific time frame within which changes have to be made?
+((2024-04-05 07.49.46.607105)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.49.52.992142)) AGENT: Sorry, can you can you repeat yourself?
+((2024-04-05 07.49.54.724979)) CUSTOMER: Yes, I'd like to know if there are any additional fees associated
+((2024-04-05 07.49.58.192608)) CUSTOMER: with policy adjustments, like if I choose to increase the coverage or make changes due to life events.
+((2024-04-05 07.50.03.082458)) CUSTOMER: And, is there a particular period within which I need to make these adjustments?
+((2024-04-05 07.50.06.905442)) CUSTOMER: Like, do I have a window after a life event, or could I update my policy at any time?
+((2024-04-05 07.50.11.080043)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.50.11.759887)) AGENT: Hello.
+((2024-04-05 07.50.13.336962)) CUSTOMER: Hi . I'd like to clarify if there are-
+((2024-04-05 07.50.16.054657)) AGENT: Yeah, generally, I think.
+((2024-04-05 07.50.45.935573)) AGENT: Hello. Hi. Yeah. So I think the only thing that probably that we'll be able to help you is actually this incorporated holiday. So that will actually allow you to stop your payment for probably up to six months. So meanwhile that money will be taken out from your investment portion to try to continue the payment, so to try to continue the coverage. So in a way you're actually using your own money to actually continue paying, but of course that comes with some management keys.
+((2024-04-05 07.50.55.131665)) AGENT: That's probably at around like 1% of the amount that you owe. The 1% of the amount that you have not paid for paid out so far.
+((2024-04-05 07.50.56.398044)) CUSTOMER: I see. So there's a fee for pausing payments, but
+((2024-04-05 07.50.59.094157)) CUSTOMER: it could still be a worthwhile option if I find myself needing to adjust due to financial constraints.
+((2024-04-05 07.51.04.482795)) CUSTOMER: Could you also tell me more about the management fees you mentioned?
+((2024-04-05 07.51.07.470263)) CUSTOMER: How often are they assessed, and do they change based on the amount invested or the policy value?
+((2024-04-05 07.51.12.302640)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.51.18.897219)) AGENT: Yeah, I think I will be able to send you all these more details.
+((2024-04-05 07.51.24.632568)) AGENT: In a report, if you're interested, I can always send it to you to an e-mail if that. If you are, fine, because we have to go now.
+((2024-04-05 07.51.26.007345)) CUSTOMER: That would be great. Thank you for your patience and for answering all my
+((2024-04-05 07.51.29.775368)) CUSTOMER: questions.
+((2024-04-05 07.51.30.783392)) CUSTOMER: I'll definitely need some time to go over the details once I get that report.
+((2024-04-05 07.51.34.343347)) CUSTOMER: Let's set up a follow-up meeting after I've had a chance to review everything.
+((2024-04-05 07.51.37.905026)) CUSTOMER: Could we tentatively schedule something for next week?
+((2024-04-05 07.51.40.656802)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.51.45.979827)) AGENT: Sure. That sounds great. Thank you very much.
+((2024-04-05 07.51.47.211479)) CUSTOMER: You're welcome. Have a good
+((2024-04-05 07.51.49.232499)) CUSTOMER: day yourself, Mandy.
+((2024-04-05 07.51.51.208086)) CUSTOMER: Just email me the details and we can pick this up from there next time.
+((2024-04-05 07.51.54.573820)) CUSTOMER: Looking forward to it!
+((2024-04-05 07.51.55.893845)) CUSTOMER: 🙏 [❤️=0]((2024-04-05 07.36.32.892861)) CUSTOMER: Hello there
+((2024-04-05 07.36.38.668895)) AGENT: Hey, Hi. How are you?
+((2024-04-05 07.36.40.338809)) CUSTOMER: I'm doing well, thanks. And
+((2024-04-05 07.36.42.934658)) CUSTOMER: how about the traffic coming here?
+((2024-04-05 07.36.44.834551)) CUSTOMER: Was it manageable?
+((2024-04-05 07.36.46.160340)) CUSTOMER: 🤔
+((2024-04-05 07.36.46.473415)) CUSTOMER: [❤️=0]
+((2024-04-05 07.37.00.939594)) AGENT: Oh yeah, it was great. Before I actually continue, my name is Mandy, so I'm aware that you got my number through your colleague.
+((2024-04-05 07.37.02.185170)) CUSTOMER: Ah yes, I remember now. Nice to meet you Mandy
+((2024-04-05 07.37.05.838377)) CUSTOMER: , I've heard some good things about you from my colleague, so I'm curious to hear more about how you can help me.
+((2024-04-05 07.37.11.562544)) CUSTOMER: 🙆 [❤️=0]
+((2024-04-05 07.37.24.841507)) AGENT: Yeah, sure. I'd like to 1st find out more about what actually the things that you care about, you know in this insurance planning.
+((2024-04-05 07.37.26.169737)) CUSTOMER: Well, I'm mostly concerned about protecting my family and my assets
+((2024-04-05 07.37.29.803351)) CUSTOMER: .
+((2024-04-05 07.37.33.817119)) CUSTOMER: I want to make sure that whatever plan I get aligns with my lifestyle and financial goals.
+((2024-04-05 07.37.38.388877)) CUSTOMER: I've been thinking a lot about how to support my loved ones and set up a safety net that makes sense for me.
+((2024-04-05 07.37.43.393627)) CUSTOMER: 💬 [❤️=0]
+((2024-04-05 07.38.08.256259)) AGENT: Oh yeah, sure. That's definitely great. It's great that you're actually thinking this way because that's what actually insurance plans can do for you. So I would like to find out more about what kind of thing you're more interested in. What kind of protection do you have?
+((2024-04-05 07.38.09.739445)) CUSTOMER: Well, I currently have a life insurance policy, but I haven't
+((2024-04-05 07.38.12.746984)) CUSTOMER: really reviewed it in a while.
+((2024-04-05 07.38.14.492235)) CUSTOMER: So I'm wondering if there are better options out there that could give me more for what I'm paying.
+((2024-04-05 07.38.18.959882)) CUSTOMER: Like, I'm kinda nervous about whether I'm covered enough for any unexpected events, yah?
+((2024-04-05 07.38.23.141875)) CUSTOMER: Health is a big concern, especially with how busy and hectic work can get.
+((2024-04-05 07.38.27.077453)) CUSTOMER: 😢 [❤️=0]
+((2024-04-05 07.38.49.521154)) AGENT: Oh yeah, sure. Actually the main point of insurance is to actually cover for the unexpected, right. So in this case, if you have just a life insurance, that's really more for your family. But have you ever think about insurance which is more for like for example, your hospitalization or for critical illnesses?
+((2024-04-05 07.38.51.005832)) CUSTOMER: Hmm, no I haven't. I'll be honest,
+((2024-04-05 07.38.53.589172)) CUSTOMER: I'm not quite sure how those types of insurances work or if they're something I can afford on top of everything else.
+((2024-04-05 07.38.58.730328)) CUSTOMER: Can you tell me more about how they might benefit me specifically?
+((2024-04-05 07.39.01.998574)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.39.30.484097)) AGENT: Oh yeah, sure. So in case anything that happens to you, you know, touch wood, so this will actually cover you for main illnesses, for your critical illness and then for the hospitalization plan, it will basically cover anything that it will basically cover most of your hospital abuse. If let's say, you were to be hospitalized, that would be mainly on the impatient side of things.
+((2024-04-05 07.39.32.200278)) CUSTOMER: Wow, that sounds really interesting. I didn't realize there were different
+((2024-04-05 07.39.35.566351)) CUSTOMER: types of coverages that could provide more extensive support.
+((2024-04-05 07.39.38.704981)) CUSTOMER: How do those plans work together with what I already have, like my existing life insurance?
+((2024-04-05 07.39.43.510807)) CUSTOMER: And, you know, what would the cost look like in comparison to the benefits?
+((2024-04-05 07.39.47.200360)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.40.07.438178)) AGENT: I think they are very different cases of things that we want to talk about, right. So maybe let's just focus on the life insurance 1st instead of other plans. I think we can add in the other plans after we are done with looking at your life insurance. So can you tell me more about your life insurance?
+((2024-04-05 07.40.09.001753)) CUSTOMER: Sure, I have a term life insurance policy with a coverage amount of
+((2024-04-05 07.40.12.725925)) CUSTOMER: ...
+((2024-04-05 07.40.13.636926)) CUSTOMER: around 1 million pesos.
+((2024-04-05 07.40.15.445290)) CUSTOMER: It's a fairly basic plan without any add-ons or extra features.
+((2024-04-05 07.40.19.089337)) CUSTOMER: I took it out a few years ago, and the premiums seem okay, but I'm not sure if I'm really getting the best deal or if the coverage is enough for my needs today.
+((2024-04-05 07.40.27.074919)) CUSTOMER: 💬 [❤️=0]
+((2024-04-05 07.40.46.653847)) AGENT: Yeah, uh, I think as a general UH guide, right, UH, your life insurance should be able to do some income replacement for your family, UH, in case you are no longer around. So I would imagine that you will actually have to have more. May I know how many family members you have.
+((2024-04-05 07.40.48.397764)) CUSTOMER: I have a wife and two
+((2024-04-05 07.40.51.293414)) CUSTOMER: children, all of whom I want to ensure are well taken care of.
+((2024-04-05 07.40.54.344397)) CUSTOMER: Plus, I'm considering the future education costs for my kids, which I hear can be quite substantial.
+((2024-04-05 07.40.59.325243)) CUSTOMER: 🙏 [❤️=0]
+((2024-04-05 07.41.18.218951)) AGENT: Yeah. So I think as a general guy, I think it depends on what you want to include in your plans. So one of the main things that you could be possibly thinking of is 1 education and two basically providing for your wife and two other kids. Am I right to say that?
+((2024-04-05 07.41.19.761986)) CUSTOMER: Yes, absolutely. Education is a huge expense, and I don't
+((2024-04-05 07.41.22.816505)) CUSTOMER: want to leave them struggling with that burden.
+((2024-04-05 07.41.25.127701)) CUSTOMER: It's important for me that they have the resources they need to pursue their dreams, without financial worries holding them back.
+((2024-04-05 07.41.31.487242)) CUSTOMER: 🙏 [❤️=0]
+((2024-04-05 07.41.45.024523)) AGENT: Yeah, sure. So I would imagine that $1,000,000 pesos will not get them anywhere if you are going to look at whatever that we have at the moment.
+((2024-04-05 07.42.02.145632)) AGENT: One, educate, one education degree that you are going to pursue, say in the local Philippines, it's probably going to be around 300 to 400,000, but that's without taking into account of inflation and once you have inflation that's going to be way more.
+((2024-04-05 07.42.03.548436)) CUSTOMER: Wow, that's a significant difference. I had no idea
+((2024-04-05 07.42.06.929060)) CUSTOMER: the costs would run that high, even for local colleges.
+((2024-04-05 07.42.10.110219)) CUSTOMER: It's kind of overwhelming, to be honest.
+((2024-04-05 07.42.12.132414)) CUSTOMER: Just to add, it's not just about the tuition, right?
+((2024-04-05 07.42.14.710979)) CUSTOMER: There are other expenses to consider, such as books, housing, and daily living costs.
+((2024-04-05 07.42.19.189837)) CUSTOMER: So I'm guessing the policy I have might be insufficient for all that.
+((2024-04-05 07.42.22.538242)) CUSTOMER: What kind of policy would you recommend that could cover those long-term expenses and still fit into my current financial situation?
+((2024-04-05 07.42.28.771876)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.42.52.442032)) AGENT: Yeah, I think what's more important is how much you're actually having in terms of your income. And then we can work out a amount because I don't think it makes sense for you to pay or to overpay basically, right. So because part of the reason is because the kid can actually kind of earn some money on their self if let's say, you really do not have enough money and you're not there to support them.
+((2024-04-05 07.42.54.114288)) CUSTOMER: That's true, but I still want to make sure they have a
+((2024-04-05 07.42.56.673567)) CUSTOMER: solid foundation to build upon.
+((2024-04-05 07.42.58.596034)) CUSTOMER: It's not just about the money; it's about providing the best opportunities for them.
+((2024-04-05 07.43.02.942768)) CUSTOMER: Is there a way to estimate future costs and get an insurance plan that takes into account inflation and other factors?
+((2024-04-05 07.43.09.064936)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.43.40.174281)) AGENT: Yeah, sure. Uh, maybe I would like to introduce to you, UH set for life. So basically there is this, UH Life insurance that basically covers anything that UH, UH, UH basically covers you for anything that happens to you. But there's actually also a investment portion of things into it. So in that way, you can actually use the investment portion of money to actually get the money out and then pass it to your children for whatever then they need to for their education.
+((2024-04-05 07.43.42.066950)) CUSTOMER: That sounds intriguing. Could you explain more about how that works
+((2024-04-05 07.43.47.845528)) CUSTOMER: ?
+((2024-04-05 07.44.06.326625)) AGENT: Yeah. So let me first start with the life insurance portion, right. So this is actually a 25 year plan at least from what I see from whatever that you are talking about, it seems like 25 years is a very reasonable time given that your children will be grown up by then.
+((2024-04-05 07.44.07.577304)) AGENT: Is that OK for you?
+((2024-04-05 07.44.08.530998)) CUSTOMER: Yes, that sounds
+((2024-04-05 07.44.11.054786)) CUSTOMER: like a plan that could potentially align with my long-term goals.
+((2024-04-05 07.44.14.240576)) CUSTOMER: However, I would need to look closely at the numbers.
+((2024-04-05 07.44.16.969306)) CUSTOMER: What would be the overall investment portion, and how would it compare to the benefits that it would potentially accrue over time?
+((2024-04-05 07.44.23.521428)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.44.52.920149)) AGENT: Yeah, I think it very much depends on your, it very much depends on how much you are earning as well or whether your cash flow actually allows it. And the second thing is actually more about how much you want to leave for your children, right. So we will first talk about how much that you are willing to put in first. I think that will make a very big part of what you can afford. So I would make if it's convenient, can you let me know how much you are earning per month?
+((2024-04-05 07.44.54.928966)) CUSTOMER: My monthly salary is around 60,000
+((2024-04-05 07.44.57.504214)) CUSTOMER: pesos, and I'm cautious about overextending my budget.
+((2024-04-05 07.45.00.603253)) CUSTOMER: Is there a certain percentage of my income you'd recommend allocating to insurance to ensure I'm not putting myself at a disadvantage in other areas of my life?
+((2024-04-05 07.45.08.591934)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.45.26.022876)) AGENT: Yeah. I think in general it will be very prudent for you to put perhaps about 10 to 15% of your income into insurance. And so I would say that this life insurance would be something like.
+((2024-04-05 07.45.37.862298)) AGENT: 3 to 5% of whatever that you are doing. So if it's three to 5%, let's think about that in terms of 60,000 that will probably give it about a 2 to 3000 per month. Is that OK for you?
+((2024-04-05 07.45.39.269504)) CUSTOMER: That sounds reasonable, but I'd like to explore other options as well
+((2024-04-05 07.45.42.545970)) CUSTOMER: , maybe ones that include critical illness or hospitalization benefits.
+((2024-04-05 07.45.46.377081)) CUSTOMER: How would those fit into the budget, and what kind of coverage could I expect from them?
+((2024-04-05 07.45.50.297937)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.46.13.150995)) AGENT: Yeah. We do have this flexible portion that covers both clinical years and hospitalization as well that will probably net you another 1000 to 2000 depending on what are the additional coverages that you want the coverage. Just wise, are you OK with that first?
+((2024-04-05 07.46.14.623298)) CUSTOMER: Yes, that sounds like a good starting point. I'd like to
+((2024-04-05 07.46.17.548438)) CUSTOMER: make sure we also consider the policy's flexibility.
+((2024-04-05 07.46.20.542833)) CUSTOMER: Life can be unpredictable, and I want to have options should my circumstances change.
+((2024-04-05 07.46.25.193040)) CUSTOMER: Could you explain how that might work with the coverages you've mentioned?
+((2024-04-05 07.46.28.750856)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.46.59.621599)) AGENT: Attractive features of this is once you actually get hit with something of a personal disability.
+((2024-04-05 07.47.03.092666)) AGENT: Your premium stops by. Your cover still continues.
+((2024-04-05 07.47.04.447723)) CUSTOMER: That's a relief to know. I'd also like to understand
+((2024-04-05 07.47.09.011245)) CUSTOMER: how these benefits apply to my immediate family.
+((2024-04-05 07.47.11.581728)) CUSTOMER: Could you walk me through the kind of support they would receive should something unexpected happen to me?
+((2024-04-05 07.47.16.530035)) CUSTOMER: And, are there specific provisions that cater to my children's education directly?
+((2024-04-05 07.47.20.687267)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.47.56.680943)) AGENT: Unfortunately, no. So if let's say anything happens to you, I think the only support that we can provide you is really to help you through the claims process, right, to make your claims process as easy as possible. So that's that, that's my promise to you as an agent, right. But of course if let's say you are talking about you know what are the additional things the insurance for can do for your family is mostly on the financial side. But you got to understand that the financial side of support is actually the one that takes away a very big pressure away.
+((2024-04-05 07.47.58.630314)) CUSTOMER: I see. While I appreciate the financial support aspect, I'd also
+((2024-04-05 07.48.05.444731)) CUSTOMER: like to ensure that the process is transparent and that there won't be any hidden clauses that could complicate things for my family during an already difficult time.
+((2024-04-05 07.48.13.578171)) CUSTOMER: Can you tell me more about how the claims process works and what sort of documentation would be required?
+((2024-04-05 07.48.18.586287)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.48.43.946192)) AGENT: OK, so it really depends on what you are looking for, what what, what, what actually happened to you, right. So documentation wise, usually they just requires for example, your hospitalization record a doctor's memo and if you submit it online, generally we will try to get back to you between two weeks. I think 2 weeks to two weeks is probably the longest that you can go.
+((2024-04-05 07.48.45.755064)) CUSTOMER: That's reassuring to know. I'd also like to discuss
+((2024-04-05 07.48.48.805351)) CUSTOMER: how the policy can potentially be adjusted over time.
+((2024-04-05 07.48.51.892037)) CUSTOMER: Say, if my financial situation changes or if there are significant life events, like having another child, can the coverage be expanded or modified to fit those changes?
+((2024-04-05 07.49.01.476049)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.49.32.944616)) AGENT: So, so the moment that you get this, if let's say you know you want more coverage, that's definitely not a problem because we can definitely do additional adjustment, adjustment to increase the the, the premium out, the premium so that it can actually match up to whatever that your family needs. Of course you have to pay a little bit more, but what is the interesting thing is that we will try to tag it to the age that you actually got it instead of starting it from a new plan.
+((2024-04-05 07.49.34.617929)) CUSTOMER: That's good to know. I'd also like to clarify
+((2024-04-05 07.49.38.097040)) CUSTOMER: if there are any additional fees that I should be aware of when making changes to the policy or if there's a specific time frame within which changes have to be made?
+((2024-04-05 07.49.46.607105)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.49.52.992142)) AGENT: Sorry, can you can you repeat yourself?
+((2024-04-05 07.49.54.724979)) CUSTOMER: Yes, I'd like to know if there are any additional fees associated
+((2024-04-05 07.49.58.192608)) CUSTOMER: with policy adjustments, like if I choose to increase the coverage or make changes due to life events.
+((2024-04-05 07.50.03.082458)) CUSTOMER: And, is there a particular period within which I need to make these adjustments?
+((2024-04-05 07.50.06.905442)) CUSTOMER: Like, do I have a window after a life event, or could I update my policy at any time?
+((2024-04-05 07.50.11.080043)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.50.11.759887)) AGENT: Hello.
+((2024-04-05 07.50.13.336962)) CUSTOMER: Hi . I'd like to clarify if there are-
+((2024-04-05 07.50.16.054657)) AGENT: Yeah, generally, I think.
+((2024-04-05 07.50.45.935573)) AGENT: Hello. Hi. Yeah. So I think the only thing that probably that we'll be able to help you is actually this incorporated holiday. So that will actually allow you to stop your payment for probably up to six months. So meanwhile that money will be taken out from your investment portion to try to continue the payment, so to try to continue the coverage. So in a way you're actually using your own money to actually continue paying, but of course that comes with some management keys.
+((2024-04-05 07.50.55.131665)) AGENT: That's probably at around like 1% of the amount that you owe. The 1% of the amount that you have not paid for paid out so far.
+((2024-04-05 07.50.56.398044)) CUSTOMER: I see. So there's a fee for pausing payments, but
+((2024-04-05 07.50.59.094157)) CUSTOMER: it could still be a worthwhile option if I find myself needing to adjust due to financial constraints.
+((2024-04-05 07.51.04.482795)) CUSTOMER: Could you also tell me more about the management fees you mentioned?
+((2024-04-05 07.51.07.470263)) CUSTOMER: How often are they assessed, and do they change based on the amount invested or the policy value?
+((2024-04-05 07.51.12.302640)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.51.18.897219)) AGENT: Yeah, I think I will be able to send you all these more details.
+((2024-04-05 07.51.24.632568)) AGENT: In a report, if you're interested, I can always send it to you to an e-mail if that. If you are, fine, because we have to go now.
+((2024-04-05 07.51.26.007345)) CUSTOMER: That would be great. Thank you for your patience and for answering all my
+((2024-04-05 07.51.29.775368)) CUSTOMER: questions.
+((2024-04-05 07.51.30.783392)) CUSTOMER: I'll definitely need some time to go over the details once I get that report.
+((2024-04-05 07.51.34.343347)) CUSTOMER: Let's set up a follow-up meeting after I've had a chance to review everything.
+((2024-04-05 07.51.37.905026)) CUSTOMER: Could we tentatively schedule something for next week?
+((2024-04-05 07.51.40.656802)) CUSTOMER: 🤔 [❤️=0]
+((2024-04-05 07.51.45.979827)) AGENT: Sure. That sounds great. Thank you very much.
+((2024-04-05 07.51.47.211479)) CUSTOMER: You're welcome. Have a good
+((2024-04-05 07.51.49.232499)) CUSTOMER: day yourself, Mandy.
+((2024-04-05 07.51.51.208086)) CUSTOMER: Just email me the details and we can pick this up from there next time.
+((2024-04-05 07.51.54.573820)) CUSTOMER: Looking forward to it!
+((2024-04-05 07.51.55.893845)) CUSTOMER: 🙏 [❤️=0]
