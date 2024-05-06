@@ -1,0 +1,51 @@
+[
+    {
+        "error_id": "1a",
+        "assessment": true,
+        "reason": "REASON: The agent incorrectly describes the \"Set for Life\" product as having \"guaranteed returns,\" which is misleading as VUL products typically do not guarantee returns due to their investment component.",
+        "extract": "EXTRACT: \"Well, I think the set for life product is a limited pay product and it does give you some guaranteed returns over a period of time...\"",
+        "improvement": "IMPROVEMENT: Replace with \"The Set for Life product allows you to choose from various investment funds, which can potentially grow your money based on market performance, though returns are not guaranteed.\""
+    },
+    {
+        "error_id": "1b",
+        "assessment": false,
+        "reason": "REASON: The agent did not explicitly explain how the insurance policy mitigates risks associated with the customer's profession as a stunt actor.",
+        "extract": "EXTRACT: \"Thank you for sharing that information with regards to your profession and you know stunt for life and obviously I think it's probably the right decision that you're making to protect your loved ones by taking this step forward.\"",
+        "improvement": "IMPROVEMENT: Add \"Insurance like 'Set for Life' is crucial for someone in your line of work as it provides financial security to your loved ones in case of any unforeseen events during your stunts.\""
+    },
+    {
+        "error_id": "1c",
+        "assessment": false,
+        "reason": "REASON: The agent did not provide specific details on what the insurance coverage entails, such as the sum assured or the age up to which the coverage is valid.",
+        "extract": "EXTRACT: \"Well, I think generally speaking it covers all accidents and that's the very purpose of the policy.\"",
+        "improvement": "IMPROVEMENT: Add \"The 'Set for Life' policy provides coverage up to age 100, ensuring long-term security. It covers death due to any cause, with an additional benefit for accidental deaths.\""
+    },
+    {
+        "error_id": "1d",
+        "assessment": false,
+        "reason": "REASON: The agent provided incorrect and vague information about the payment options and did not mention other key features like SA Flexibility or the death benefit structure.",
+        "extract": "EXTRACT: \"Uh, well, we have multiple payment options for you. We actually have four options. You could choose from A5 Pay or A7 Pay, A10 Pay, or a Whole Life payment which is annual payment every year.\"",
+        "improvement": "IMPROVEMENT: Correct and clarify with \"The 'Set for Life' policy offers three premium payment periods: 5, 7, or 10 years, after which no further premiums are required, but your coverage continues.\""
+    },
+    {
+        "error_id": "1e",
+        "assessment": true,
+        "reason": "REASON: The agent incorrectly stated that the policy generally covers all accidents without specifying any exclusions that might be particularly relevant to the customer's profession as a stunt actor.",
+        "extract": "EXTRACT: \"Well, I think generally speaking it covers all accidents and that's the very purpose of the policy.\"",
+        "improvement": "IMPROVEMENT: Replace with \"While the policy covers accidents, it's important to review specific exclusions related to professional stunts, which we can discuss in detail to ensure you have the right coverage.\""
+    },
+    {
+        "error_id": "1f",
+        "assessment": false,
+        "reason": "REASON: The agent did not compare the 'Set for Life' policy with any similar products from competitors, which could help the customer make a more informed decision.",
+        "extract": "EXTRACT: \"Well, I think the set for life product is a limited pay product and it does give you some guaranteed returns over a period of time...\"",
+        "improvement": "IMPROVEMENT: Add \"Compared to similar products like 'My Life Choice' from AXA, which also offers investment options, 'Set for Life' provides different premium payment options and flexibility in sum assured adjustments.\""
+    },
+    {
+        "error_id": "1g",
+        "assessment": false,
+        "reason": "REASON: The agent did not tailor the explanation of the product's benefits or features to specifically address the customer's unique needs as a stunt actor.",
+        "extract": "EXTRACT: \"Thank you for sharing that information with regards to your profession and you know stunt for life and obviously I think it's probably the right decision that you're making to protect your loved ones by taking this step forward.\"",
+        "improvement": "IMPROVEMENT: Add \"Given the high-risk nature of your job, the 'Set for Life' policy is particularly suitable as it provides substantial coverage and flexibility in premium payments, which can be crucial for someone with an unpredictable income.\""
+    }
+]
