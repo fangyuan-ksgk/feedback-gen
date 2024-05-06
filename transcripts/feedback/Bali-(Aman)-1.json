@@ -1,0 +1,121 @@
+[
+    {
+        "error_id": "1a",
+        "assessment": true,
+        "reason": "REASON: The agent incorrectly referred to the \"Set for Life\" policy as a term insurance policy and a \"better life policy,\" which are incorrect descriptions.",
+        "extract": "EXTRACT: \"I would strongly recommend to start with that you take a simple term insurance policy for yourself.\"",
+        "improvement": "IMPROVEMENT: Replace with \"Set for Life is a Limited Pay VUL, which combines life insurance with an investment component, not just a simple term insurance.\""
+    },
+    {
+        "error_id": "1b",
+        "assessment": false,
+        "reason": "REASON: The agent did not explicitly explain how the insurance policy mitigates risks associated with the customer's profession as a stunt actor.",
+        "extract": "EXTRACT: \"Thank you for sharing that information with regards to your profession and you know stunt for life and obviously I think it's probably the right decision that you're making to protect your loved ones by taking this step forward.\"",
+        "improvement": "IMPROVEMENT: Add \"With the nature of your work, having a policy like Set for Life ensures that in the event of any unforeseen incidents, your financial obligations and your family's future are secured.\""
+    },
+    {
+        "error_id": "1c",
+        "assessment": false,
+        "reason": "REASON: The agent did not provide specific details on what the insurance coverage includes, such as the age limit or the specifics of the death benefit.",
+        "extract": "EXTRACT: \"Well, I think generally speaking it covers all accidents and that's the very purpose of the policy.\"",
+        "improvement": "IMPROVEMENT: Add \"Set for Life provides insurance coverage up to age 100, with the death benefit being the higher of the sum assured or the account value.\""
+    },
+    {
+        "error_id": "1d",
+        "assessment": false,
+        "reason": "REASON: The agent provided incorrect and vague information about the features of the policy.",
+        "extract": "EXTRACT: \"Well, I think the set for life product is a limited pay product and it does give you some guaranteed returns over a period of time and you have the option to pay a shorter period of premiums as opposed to a longer period of payment.\"",
+        "improvement": "IMPROVEMENT: Correct to \"Set for Life is a Limited Pay VUL where you can choose to pay premiums over 5, 7, or 10 years, and it combines investment options with life insurance coverage.\""
+    },
+    {
+        "error_id": "1e",
+        "assessment": true,
+        "reason": "REASON: The agent incorrectly stated that the policy covers all accidents without mentioning any specific exclusions that might be relevant to the customer's profession.",
+        "extract": "EXTRACT: \"Well, I think generally speaking it covers all accidents and that's the very purpose of the policy.\"",
+        "improvement": "IMPROVEMENT: Replace with \"The policy covers accidents, but it's important to review specific exclusions related to professional stunts, as some high-risk activities might be excluded or require additional riders.\""
+    },
+    {
+        "error_id": "1f",
+        "assessment": false,
+        "reason": "REASON: The agent did not compare the \"Set for Life\" policy with any other products from competitors, even though the customer might benefit from understanding different options.",
+        "extract": "EXTRACT: \"Well, I think the set for life product is a limited pay product and it does give you some guaranteed returns over a period of time.\"",
+        "improvement": "IMPROVEMENT: Add \"Compared to similar products like AXA's My Life Choice, Set for Life offers a different commission structure and premium payment options that might better suit your financial planning.\""
+    },
+    {
+        "error_id": "1g",
+        "assessment": false,
+        "reason": "REASON: The agent did not tailor the explanation of the policy features to specifically address the customer's unique needs as a stunt actor.",
+        "extract": "EXTRACT: \"My purpose today would be to make sure that you can understand options and products but I would strongly recommend to start with that you take a simple term insurance policy for yourself.\"",
+        "improvement": "IMPROVEMENT: Add \"Given the high-risk nature of your job as a stunt actor, the Set for Life policy's accidental death benefit and option for additional riders like critical illness can provide comprehensive coverage tailored to your profession.\""
+    },
+    {
+        "error_id": "1h",
+        "assessment": false,
+        "reason": "REASON: The agent did not provide any examples or analogies that relate the policy to the current social, economic, or market situation.",
+        "extract": "EXTRACT: \"Well, I think the set for life product is a limited pay product and it does give you some guaranteed returns over a period of time.\"",
+        "improvement": "IMPROVEMENT: Add \"In today's uncertain economic climate, investing in a VUL like Set for Life"
+    },
+    {
+        "error_id": "2a",
+        "assessment": true,
+        "reason": "REASON: The agent opened the conversation with a friendly and professional greeting, acknowledging the customer and expressing pleasure in meeting them.",
+        "extract": "EXTRACT: \"Hello, Good morning. It's a pleasure to see you this morning.\"",
+        "improvement": "IMPROVEMENT: N/A"
+    },
+    {
+        "error_id": "2b",
+        "assessment": true,
+        "reason": "REASON: The agent engaged in small talk by asking the customer how they were feeling and expressing gratitude for the meeting.",
+        "extract": "EXTRACT: \"I hope you're feeling well and I'd really like to start off by thanking you for taking the time to meet me today.\"",
+        "improvement": "IMPROVEMENT: N/A"
+    },
+    {
+        "error_id": "2c",
+        "assessment": false,
+        "reason": "REASON: The agent did not ask direct questions to learn more about the customer's background; the customer volunteered information about their profession.",
+        "extract": "EXTRACT: \"That's great to hear! I've actually been thinking about getting some life insurance recently, especially with the kind of risky work I do as a stunt actor.\"",
+        "improvement": "IMPROVEMENT: The agent could ask, \"Can you tell me a bit about your profession and any specific concerns you might have regarding insurance needs?\""
+    },
+    {
+        "error_id": "2d",
+        "assessment": false,
+        "reason": "REASON: The agent did not ask specific questions to understand the customer's needs; instead, the customer initiated the discussion about their insurance needs.",
+        "extract": "EXTRACT: \"What can you tell me about the Set For Life insurance from FWD?\"",
+        "improvement": "IMPROVEMENT: The agent could say, \"Given your unique profession, what are you looking for in an insurance policy?\""
+    },
+    {
+        "error_id": "2e",
+        "assessment": false,
+        "reason": "REASON: The agent did not ask follow-up questions about the customer's background after learning about their profession.",
+        "extract": "EXTRACT: \"Thank you for sharing that information with regards to your profession and you know stunt for life and obviously I think it's probably the right decision that you're making to protect your loved ones by taking this step forward.\"",
+        "improvement": "IMPROVEMENT: The agent could ask, \"How long have you been involved in stunt acting, and what kind of risks do you typically face?\""
+    },
+    {
+        "error_id": "2f",
+        "assessment": false,
+        "reason": "REASON: The agent did not paraphrase or summarize the customer's statements effectively to confirm understanding.",
+        "extract": "EXTRACT: \"Thank you for sharing that information with regards to your profession and you know stunt for life and obviously I think it's probably the right decision that you're making to protect your loved ones by taking this step forward.\"",
+        "improvement": "IMPROVEMENT: The agent could say, \"So, you're considering life insurance due to the risks associated with your stunt acting career. Let's explore how we can tailor a policy to meet those specific needs.\""
+    },
+    {
+        "error_id": "2g",
+        "assessment": true,
+        "reason": "REASON: The agent referenced the customer's profession as a stunt actor when discussing the insurance policy.",
+        "extract": "EXTRACT: \"Thank you for sharing that information with regards to your profession and you know stunt for life and obviously I think it's probably the right decision that you're making to protect your loved ones by taking this step forward.\"",
+        "improvement": "IMPROVEMENT: N/A"
+    },
+    {
+        "error_id": "2h",
+        "assessment": false,
+        "reason": "REASON: The agent did not mention any future follow-up or check-in plans with the customer.",
+        "extract": "EXTRACT: \"Not at all.\"",
+        "improvement": "IMPROVEMENT: The agent could say, \"I'll follow up with you next week to see if you have any more questions or to assist further with the policy details.\""
+    },
+    {
+        "error_id": "2i",
+        "assessment": false,
+        "reason": "REASON: The agent did not make any explicit commitments regarding service quality or their availability for future assistance.",
+        "extract": "EXTRACT: \"Not at all.\"",
+        "improvement": "IMPROVEMENT: The agent could say, \"You can count on me for any assistance you need going forward, and I'm committed to providing you with the highest quality of service.\""
+    }
+]

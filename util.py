@@ -3,6 +3,7 @@ import re
 import aiohttp
 from openai import OpenAI
 import os
+import json
 
 client = OpenAI(
     api_key=os.environ["OPENAI_API_KEY"],
@@ -322,6 +323,74 @@ product_knowledge = {
         "1h": "Did AGENT give an example or analogy of how the policy is in line with current social/economic/market situation?",
 }
 
+relationship_management = {
+    "2a": "Did AGENT open the conversation with professional and friendly greeting?",
+    "2b": "Did AGENT initial small talk or show genuine interest in CUSTOMER to build rapport?",
+    "2c": "Did AGENT ask questions to elicit sharing about CUSTOMER background?",
+    "2d": "Did AGENT ask questions to elicit sharing about CUSTOMER needs?",
+    "2e": "Did AGENT do active listening by asking follow-up question about CUSTOMER's background?",
+    "2f": "Did AGENT do active listening by paraphrasing or summarizing what CUSTOMER shared?",
+    "2g": "Did AGENT demonstrate personalization by referencing customer-specific information previously shared?",
+    "2h": "Did AGENT mention that there will be future follow-up or check-in?",
+    "2i": "Did AGENT make explicit commitments to service quality and availability for future assistance?",
+    "2j": "Did AGENT give an example of how AGENT helped another customer solve a problem in the past?",
+    "2k": "Did AGENT explain how CUSTOMER can get help when needed?",
+    "2l": "Did AGENT actively ask for feedback?",
+    "2m": "Did AGENT respond constructively to feedback?",
+}
+
+sale_skills = {
+        "3a": "Did AGENT explain USP (Unique Selling Point) of policy compared to competitor?",
+        "3b": "Did AGENT link policy benefits with CUSTOMER's particular situation?",
+        "3c": "Did AGENT acknowledge all CUSTOMER objections and concerns with empathy?",
+        "3d": "Did AGENT propose a solution or alternative to all CUSTOMER objections and concerns?",
+        "3e": "Did AGENT check CUSTOMER readiness to buy before the conversation ended?",
+        "3f": "Did AGENT summarize key benefits linked to client needs before the conversation ended?",
+        "3g": "Did AGENT state the next steps after this conversation?",
+        "3h": "Did AGENT ask questions to assess potential to up-sell or cross-sell?",
+}
+
+communication_skills = {
+        "4a": "Did AGENT use examples or analogies to explain complex insurance terms?",
+        "4b": "Did AGENT ask at least one question to check CUSTOMER's understanding?",
+        "4c": "Throughout the whole transcript, did AGENT keep explanation succinct without unnecessary details?",
+        "4d": "Did AGENT emphasize key points without unnecessary repetition?",
+        "4e": "Did AGENT summarize lengthy discussions?",
+        "4f": "Did AGENT adjust communication style and language use to CUSTOMER's style and language?",
+        "4g": "Did AGENT quickly address all misunderstandings if any?",
+        "4h": "Was AGENT sensitive to cultural norms?",
+        "4i": "Did AGENT use words like 'I See' or 'I Understand' to show active listening?",
+        "4j": "Did AGENT reflect or paraphrase CUSTOMER statements?",
+}
+
+analytical_skills = {
+        "5a": "Did AGENT point out issues or gaps in CUSTOMER's current insurance coverage if CUSTOMER has existing insurance coverage?",
+        "5b": "Did AGENT ask questions to check CUSTOMER's understanding of insurance coverage?"
+}
+
+# Poor not-in-use functions | Not useful for long-form generation
+def evalute_agent_knowledge(error_id: str, reason: str, context: str, suggestion: str) -> str:
+    """ 
+    Parse the evaluation message for the agent's performance. And extract the error id, reason, and suggestion. 
+    Args: 
+        error_id (str): The error id for the specific error. For instance 1a, 1b, 1c, etc. According to provided information. 
+        reason (str): Rationale for the judgement. Why we believe agent shows weekness in product knowledge.
+        context (str): Specific context of the error, what does the agent said that is wrong or shows weekness in product knowledge.
+        suggestion (str): The suggestion for the agent on how to improve their knowledge.
+    """
+    issue_dict = {"error_id": "NA", "reason": "NA", "context": "NA", "suggestion": "NA"}
+    try:
+        issue_dict = {"error_id": error_id, "reason": reason, "context": context, "suggestion": suggestion}
+        with open("test.json", "w") as file:
+           json.dump(issue_dict, file)
+    except:
+        issue_dict = {"error_id": "NA", "reason": "NA", "context": "NA", "suggestion": "NA"}
+
+
+
+
+
+
 
 # General One-Shot evaluator 
 
@@ -338,11 +407,12 @@ def get_eval_message(issue_dict: dict, transcript: list[str], knowledge: str = "
     else:
         return message_template.format(issue_info=issue_info, transcript=transcript_str)
 
-def direct_parse_judgement(unparsed_judegement: str):
+
+def direct_parse_judgement(unparsed_judegement: str, issue_dict: dict):
     lines = unparsed_judegement.split("\n")
     error, assessment, reason, extract, improvement = None, None, None, None, None
     judgements = []
-    error_ids = ["1a", "1b", "1c", "1d", "1e", "1f", "1g", "1h"]
+    error_ids = list(issue_dict.keys())
     for line in lines:
         for error_id in error_ids:
             if error_id in line:
@@ -359,3 +429,23 @@ def direct_parse_judgement(unparsed_judegement: str):
             judgements.append({"error_id": error, "assessment": assessment, "reason": reason, "extract": extract, "improvement": improvement})
             error, assessment, reason, extract, improvement = None, None, None, None, None
     return judgements
+
+
+def store_judgement(judgements: list, file_name: str):
+
+    file_path =  f"transcripts/feedback/{file_name}.json"
+    # Load existing data from the file
+    existing_data = []
+    try:
+        with open(file_path, 'r') as file:
+            existing_data = json.load(file)
+    except FileNotFoundError:
+        print("File not found. Creating a new file.")
+        existing_data = []
+
+    # Append new judgements to the existing data
+    existing_data.extend(judgements)
+
+    # Write the updated data back to the file
+    with open(file_path, 'w') as file:
+        json.dump(existing_data, file, indent=4)
