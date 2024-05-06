@@ -4,6 +4,8 @@ import aiohttp
 from openai import OpenAI
 import os
 import json
+import plotly.express as px
+import pandas as pd
 
 client = OpenAI(
     api_key=os.environ["OPENAI_API_KEY"],
@@ -613,4 +615,24 @@ def generate_report(assistant, file_name):
     with open(file_path, "w") as file:
         file.write(report)
     return report
-    
+
+def cal_average_score(attribute_scores):
+    ensemble_score = {}
+    for id, scores in attribute_scores.items():
+        attribute = map_id_to_attribute(str(id))
+        avg_score = sum(scores) / len(scores) * 100
+        ensemble_score[attribute] = avg_score
+    return ensemble_score
+
+def save_star_chart(file_name):
+    attribute_scores = get_attribute_scores(file_name)
+    ensemble_score = cal_average_score(attribute_scores)
+    # Convert ensemble_score dictionary to DataFrame for plotting
+    df = pd.DataFrame(list(ensemble_score.items()), columns=['Attribute', 'Score'])
+    # Create a polar line chart with enhanced aesthetics
+    fig = px.line_polar(df, r='Score', theta='Attribute', line_close=True,
+                        color_discrete_sequence=['#00FF00'],  # Using a green color for the fill
+                        title='Transcript Evaluation Result')  # Adding a title for clarity
+    fig.update_traces(fill='toself')  # Fill the area under the line with green
+    plot_path = f"transcripts/feedback/{file_name}.png"
+    fig.write_image(plot_path)
