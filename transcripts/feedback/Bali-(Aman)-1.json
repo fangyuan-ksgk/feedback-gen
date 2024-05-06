@@ -117,5 +117,61 @@
         "reason": "REASON: The agent did not make any explicit commitments regarding service quality or their availability for future assistance.",
         "extract": "EXTRACT: \"Not at all.\"",
         "improvement": "IMPROVEMENT: The agent could say, \"You can count on me for any assistance you need going forward, and I'm committed to providing you with the highest quality of service.\""
+    },
+    {
+        "error_id": "3a",
+        "assessment": false,
+        "reason": "REASON: The agent did not clearly explain how \"Set For Life\" differs from other term insurance policies, especially in terms of its investment component, which the customer specifically asked about.  ",
+        "extract": "EXTRACT: \"Well, I think the set for life product is a limited pay product and it does give you some guaranteed returns over a period of time...\"  ",
+        "improvement": "IMPROVEMENT: The agent could say, \"The unique aspect of our Set For Life policy is that it not only provides term insurance but also includes an investment component where the returns are partly guaranteed. Unlike many other policies, you can choose to have the investments managed for you, which is ideal for ensuring long-term growth without daily management on your part.\""
+    },
+    {
+        "error_id": "3b",
+        "assessment": false,
+        "reason": "REASON: The agent mentioned the policy but did not tailor the conversation to specifically address how the policy benefits align with the customer's risky job as a stunt actor.  ",
+        "extract": "EXTRACT: \"Thank you for sharing that information with regards to your profession and you know stunt for life and obviously I think it's probably the right decision that you're making to protect your loved ones by taking this step forward.\"  ",
+        "improvement": "IMPROVEMENT: The agent could improve by saying, \"Given your profession as a stunt actor, the Set For Life policy is particularly beneficial as it includes an accidental death benefit that covers work-related incidents, ensuring your family's financial security regardless of the risks involved in your job.\""
+    },
+    {
+        "error_id": "3c",
+        "assessment": true,
+        "reason": "REASON: The agent responded to the customer's inquiries about the policy details, such as the accidental death benefit and payment options, showing attentiveness to the customer's concerns.  ",
+        "extract": "EXTRACT: \"Well, I think generally speaking it covers all accidents and that's the very purpose of the policy.\"  ",
+        "improvement": "IMPROVEMENT: N/A"
+    },
+    {
+        "error_id": "3d",
+        "assessment": true,
+        "reason": "REASON: The agent provided alternatives and explanations for the customer\u2019s questions about payment periods and adding beneficiaries.  ",
+        "extract": "EXTRACT: \"Uh, well, we have multiple payment options for you. We actually have four options. You could choose from A5 Pay or A7 Pay, A10 Pay, or a Whole Life payment which is annual payment every year.\"  ",
+        "improvement": "IMPROVEMENT: N/A"
+    },
+    {
+        "error_id": "3e",
+        "assessment": false,
+        "reason": "REASON: The agent did not check if the customer was ready to proceed with purchasing the policy or needed further information before ending the conversation.  ",
+        "extract": "EXTRACT: \"Not at all.\"  ",
+        "improvement": "IMPROVEMENT: Before concluding, the agent could ask, \"Based on our discussion, do you feel ready to start with the Set For Life policy, or is there anything else you'd like to know or discuss?\""
+    },
+    {
+        "error_id": "3f",
+        "assessment": false,
+        "reason": "REASON: The agent did not summarize the key benefits of the policy in relation to the customer's specific needs as a stunt actor.  ",
+        "extract": "EXTRACT: \"Not at all.\"  ",
+        "improvement": "IMPROVEMENT: The agent could summarize by saying, \"Just to recap, the Set For Life policy offers flexible payment options, an accidental death benefit that covers your professional risks, and the ability to add your family members at no extra cost, making it a comprehensive choice for someone in your field.\""
+    },
+    {
+        "error_id": "3g",
+        "assessment": false,
+        "reason": "REASON: The agent did not clarify the next steps the customer should take if they were interested in proceeding with the policy.  ",
+        "extract": "EXTRACT: \"Not at all.\"  ",
+        "improvement": "IMPROVEMENT: The agent could say, \"If you're interested, the next step would be for me to prepare a personalized quote based on the options we discussed. I can have that ready for you by tomorrow. How does that sound?\""
+    },
+    {
+        "error_id": "3h",
+        "assessment": false,
+        "reason": "REASON: The agent did not explore additional needs or suggest other products that could complement the life insurance policy, such as accident insurance or health coverage.  ",
+        "extract": "EXTRACT: \"Uh, not at all. To add your wife and child into the beneficiary is absolutely free.\"  ",
+        "improvement": "IMPROVEMENT: The agent could inquire, \"Besides life insurance, have you considered accident insurance or health coverage, which could be particularly beneficial given your profession? We offer bundled packages that might be of interest.\""
     }
 ]
