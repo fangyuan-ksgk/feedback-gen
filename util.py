@@ -577,6 +577,10 @@ Improvement: [Generated from eval_str]
 
 def generate_report(assistant, file_name):
 
+    # Get Scores for Each Attribute & Ensemble the Scores
+    attribute_scores = get_attribute_scores(file_name)
+    ensemble_score = process_ensemble_score(attribute_scores)
+
     # Convert the json file into a string, and ask LLM to compress the evaluation result into a proper report 
     file_path = f"transcripts/feedback/{file_name}.json"
     # Load the JSON data from the file
@@ -605,7 +609,7 @@ def generate_report(assistant, file_name):
     feedback_message = FEEDBACK_REPORT_TEMPLATE.format(eval_str=eval_str, scores_str=scores_str)
     assistant.print_response(feedback_message, markdown=True, stream=False)
     report = assistant.memory.chat_history[-1].content
-    file_path = "transcripts/feedback/{file_name}_feedback_report.txt"
+    file_path = f"transcripts/feedback/{file_name}_feedback_report.txt"
     with open(file_path, "w") as file:
         file.write(report)
     return report
