@@ -533,3 +533,80 @@ def map_id_to_attribute(id):
     elif id.startswith("5"):
         return "Analytical Skills"
     
+
+FEEDBACK_REPORT_TEMPLATE = """Based on the detailed evaluation results and scores for each attribute of the FWD insurance sales agent's performance, please provide an evaluation and feedback report. The report should detail the performance in each category, the percentage score, and suggestions for improvement.
+
+[DETAILED EVALUATION]
+{eval_str}
+[END]
+
+[SCORES]
+{scores_str}
+[END]
+
+[EXAMPLE REPORT FORMAT]
+Category: Product and Industry Knowledge
+Percentage: [Percentage from scores_str]
+Feedback: [Generated from eval_str]
+Improvement: [Generated from eval_str]
+
+Category: Customer Relationship Management
+Percentage: [Percentage from scores_str]
+Feedback: [Generated from eval_str]
+Improvement: [Generated from eval_str]
+
+Category: Negotiation and Sales Skills
+Percentage: [Percentage from scores_str]
+Feedback: [Generated from eval_str]
+Improvement: [Generated from eval_str]
+
+
+Category: Communication Skills
+Percentage: [Percentage from scores_str]
+Feedback: [Generated from eval_str]
+Improvement: [Generated from eval_str]
+
+Category: Analytical Skills
+Percentage: [Percentage from scores_str]
+Feedback: [Generated from eval_str]
+Improvement: [Generated from eval_str]
+[END]
+"""
+
+
+
+def generate_report(assistant, file_name):
+
+    # Convert the json file into a string, and ask LLM to compress the evaluation result into a proper report 
+    file_path = f"transcripts/feedback/{file_name}.json"
+    # Load the JSON data from the file
+    with open(file_path, 'r') as file:
+        data = json.load(file)
+
+
+    # Prepare Evaluation String
+    eval_str = ""
+    for p in data:
+        info, attribute = map_id_to_info(p["error_id"])
+        p_str = f"""\n-- {attribute}: {info}\n[Assessment] {p['assessment']} \n {p['reason']} \n {p['extract']} \n {p['improvement']}"""
+        eval_str += p_str
+    eval_str = eval_str.strip()
+    print(eval_str)
+
+    # Prepare Score String
+    scores_str = ""
+    for k, v in ensemble_score.items():
+        attribute = map_id_to_attribute(str(k))
+        score = int(v * 100)
+        s_str = f"\nOn {attribute}, the agent has a score of {score}/100."
+        scores_str += s_str
+    scores_str = scores_str.strip()
+
+    feedback_message = FEEDBACK_REPORT_TEMPLATE.format(eval_str=eval_str, scores_str=scores_str)
+    assistant.print_response(feedback_message, markdown=True, stream=False)
+    report = assistant.memory.chat_history[-1].content
+    file_path = "transcripts/feedback/{file_name}_feedback_report.txt"
+    with open(file_path, "w") as file:
+        file.write(report)
+    return report
+    
