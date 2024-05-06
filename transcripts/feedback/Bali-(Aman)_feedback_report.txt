@@ -1,35 +1,35 @@
 ### Evaluation and Feedback Report
 
 #### Category: Product and Industry Knowledge
-**Percentage:** 80%
+**Percentage:** 25%
 **Feedback:** 
 The agent demonstrated a moderate understanding of the insurance products but made several critical errors in describing the policy details and failed to tailor the information to the customer's specific needs. Incorrect terminology and incomplete explanations were noted.
 **Improvement:** 
 The agent should ensure accurate use of insurance terms and provide complete and correct details about the policies. Training on product details and better preparation before meetings are recommended.
 
 #### Category: Customer Relationship Management
-**Percentage:** 90%
+**Percentage:** 33%
 **Feedback:** 
 The agent excelled in initiating the conversation with a professional and friendly manner and engaged in effective small talk. However, there was a lack of direct questions to explore the customer's background and needs further.
 **Improvement:** 
 To build deeper rapport and better understand customer needs, the agent should ask more open-ended questions about the customer's background and specific insurance needs.
 
 #### Category: Negotiation and Sales Skills
-**Percentage:** 80%
+**Percentage:** 25%
 **Feedback:** 
 The agent addressed customer concerns and provided alternatives effectively but did not adequately explain the unique selling points of the policy or check the customer's readiness to purchase by the end of the conversation.
 **Improvement:** 
 The agent should focus on clearly explaining how the policy's benefits are uniquely suited to the customer's situation and always check for readiness to proceed before ending the conversation.
 
 #### Category: Communication Skills
-**Percentage:** 100%
+**Percentage:** 50%
 **Feedback:** 
 The agent communicated effectively, matching the customer's style and addressing queries promptly without unnecessary repetition or details. However, there was a lack of summarization at the end of the conversation.
 **Improvement:** 
 Although the overall communication was excellent, the agent could enhance clarity by summarizing key points at the end of discussions to reinforce understanding and aid decision-making.
 
 #### Category: Analytical Skills
-**Percentage:** 33%
+**Percentage:** 0%
 **Feedback:** 
 The agent showed a significant lack of analytical skills, failing to inquire about or discuss any existing insurance coverage the customer might have, nor did they check the customer's understanding of the discussed insurance coverage.
 **Improvement:** 

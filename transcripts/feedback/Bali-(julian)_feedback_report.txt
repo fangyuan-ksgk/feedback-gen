@@ -1,26 +1,26 @@
 ### Evaluation and Feedback Report
 
 #### Category: Product and Industry Knowledge
-**Percentage:** 80%
+**Percentage:** 25%
 **Feedback:** The agent demonstrated a good understanding of insurance terms and did not provide incorrect information about policy exclusions. However, there were significant gaps in explaining how the insurance mitigates risks, the coverage specifics, and the features of the policy. The agent also failed to tailor explanations to fit the customer's unique needs as a stunt actor and did not effectively use examples or analogies to relate the policy to current market situations.
 **Improvement:** The agent should enhance explanations by clearly detailing how insurance products mitigate specific risks associated with the customer's profession, provide comprehensive details about policy coverage and features, and use relevant examples or analogies that connect the product to current social, economic, or market situations.
 
 #### Category: Customer Relationship Management
-**Percentage:** 60%
+**Percentage:** 10%
 **Feedback:** The agent started the conversation with a professional and friendly greeting. However, there was a lack of initiative in building rapport through small talk, and the agent did not engage in active listening or personalize the conversation based on previously shared customer information. There was also no mention of future follow-ups or explicit commitments to service quality.
 **Improvement:** To improve, the agent should actively initiate and engage in small talk to build rapport, ask questions to understand the customer's background and needs better, use customer-specific information to personalize the conversation, and make explicit commitments to follow-up and service quality.
 
 #### Category: Negotiation and Sales Skills
-**Percentage:** 80%
+**Percentage:** 25%
 **Feedback:** The agent effectively linked some policy benefits to the customer's situation and proposed solutions to objections by offering additional coverage options. However, the agent did not clearly state the unique selling points of the policy, did not check the customer's readiness to buy, and failed to summarize key benefits linked to the client's needs before ending the conversation.
 **Improvement:** The agent should clearly articulate the unique selling points of the policy, ensure that the customer is ready to proceed with the purchase, summarize the key benefits tailored to the customer's needs, and clearly state the next steps following the conversation.
 
 #### Category: Communication Skills
-**Percentage:** 100%
+**Percentage:** 50%
 **Feedback:** The agent was effective in keeping explanations succinct and emphasized key points without unnecessary repetition. The communication style was well adjusted to match the customer's, and the agent showed active listening through appropriate responses.
 **Improvement:** While the agent performed well in this category, ensuring consistent use of examples or analogies to explain complex terms and summarizing lengthy discussions could further enhance communication effectiveness.
 
 #### Category: Analytical Skills
-**Percentage:** 33%
+**Percentage:** 0%
 **Feedback:** The agent showed a significant lack of analytical engagement with the customer's needs and understanding. There were no efforts to inquire about or discuss any existing insurance coverage the customer might have, nor were there any checks on the customer's understanding of the insurance coverage being discussed.
 **Improvement:** The agent needs to actively inquire about any existing insurance coverage to identify gaps or overlaps, and regularly check the customer's understanding of the information being provided to ensure clarity and comprehension.
